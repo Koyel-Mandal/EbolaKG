@@ -1,0 +1,350 @@
+DrugName,PathwayCategory,PathwayName
+Bivalirudin,drug_action,Bivalirudin Action Pathway
+Pyridoxal phosphate,disease,Carbamoyl Phosphate Synthetase Deficiency
+Pyridoxal phosphate,disease,Argininosuccinic Aciduria
+Pyridoxal phosphate,metabolic,Glycine and Serine Metabolism
+Pyridoxal phosphate,metabolic,Tyrosine Metabolism
+Pyridoxal phosphate,metabolic,Ammonia Recycling
+Pyridoxal phosphate,metabolic,Catecholamine Biosynthesis
+Pyridoxal phosphate,metabolic,Propanoate Metabolism
+Pyridoxal phosphate,metabolic,Arginine and Proline Metabolism
+Pyridoxal phosphate,metabolic,Taurine and Hypotaurine Metabolism
+Pyridoxal phosphate,metabolic,Porphyrin Metabolism
+Pyridoxal phosphate,metabolic,Selenoamino Acid Metabolism
+Pyridoxal phosphate,metabolic,Histidine Metabolism
+Pyridoxal phosphate,metabolic,Starch and Sucrose Metabolism
+Pyridoxal phosphate,metabolic,Glutamate Metabolism
+Pyridoxal phosphate,disease,2-Methyl-3-hydroxybutryl-CoA Dehydrogenase Deficiency
+Pyridoxal phosphate,disease,3-Methylglutaconic Aciduria Type I
+Pyridoxal phosphate,disease,beta-Ketothiolase Deficiency
+Pyridoxal phosphate,disease,Cystathionine beta-Synthase Deficiency
+Pyridoxal phosphate,disease,Glutaric Aciduria Type I
+Pyridoxal phosphate,disease,Guanidinoacetate Methyltransferase Deficiency (GAMT Deficiency)
+Pyridoxal phosphate,disease,Histidinemia
+Pyridoxal phosphate,disease,Tyrosinemia Type I
+Pyridoxal phosphate,disease,Saccharopinuria/Hyperlysinemia II
+Pyridoxal phosphate,disease,Hyperinsulinism-Hyperammonemia Syndrome
+Pyridoxal phosphate,disease,Globoid Cell Leukodystrophy
+Pyridoxal phosphate,disease,Hyperprolinemia Type II
+Pyridoxal phosphate,disease,Hyperprolinemia Type I
+Pyridoxal phosphate,disease,Tyrosinemia Type 3 (TYRO3)
+Pyridoxal phosphate,drug_action,Disulfiram Action Pathway
+Pyridoxal phosphate,metabolic,Carnitine Synthesis
+Phenylalanine,disease,Tyrosinemia Type 3 (TYRO3)
+Phenylalanine,disease,Phenylketonuria
+Phenylalanine,metabolic,Phenylalanine and Tyrosine Metabolism
+Phenylalanine,disease,Tyrosinemia Type 2 (or Richner-Hanhart Syndrome)
+Biotin,metabolic,Biotin Metabolism
+Biotin,disease,2-Hydroxyglutric Aciduria (D and L Form)
+Biotin,disease,3-Hydroxy-3-methylglutaryl-CoA Lyase Deficiency
+Biotin,disease,Malonic Aciduria
+Biotin,disease,Methylmalonic Aciduria
+Biotin,disease,4-Hydroxybutyric Aciduria/Succinic Semialdehyde Dehydrogenase Deficiency
+Biotin,disease,Lactic Acidemia
+Biotin,disease,Primary Hyperoxaluria Type I
+Biotin,disease,Glycogen Storage Disease Type 1A (GSD1A) or Von Gierke Disease
+Biotin,metabolic,Transfer of Acetyl Groups into Mitochondria
+Biotin,disease,Isobutyryl-CoA Dehydrogenase Deficiency
+Biotin,disease,Congenital Lactic Acidosis
+Biotin,disease,Fumarase Deficiency
+Biotin,disease,Mitochondrial Complex II Deficiency
+Biotin,disease,2-Ketoglutarate Dehydrogenase Complex Deficiency
+Biotin,disease,"Fructose-1,6-diphosphatase Deficiency"
+Biotin,disease,Triosephosphate Isomerase
+Biotin,disease,Succinic Semialdehyde Dehydrogenase Deficiency
+Biotin,metabolic,Warburg Effect
+Biotin,disease,The Oncogenic Action of 2-Hydroxyglutarate
+Biotin,metabolic,"Valine, Leucine, and Isoleucine Degradation"
+Biotin,metabolic,Alanine Metabolism
+Biotin,disease,3-Methylglutaconic Aciduria Type III
+Biotin,disease,3-Methylglutaconic Aciduria Type IV
+Biotin,disease,Maple Syrup Urine Disease
+Biotin,disease,Methylmalonic Aciduria Due to Cobalamin-Related Disorders
+Biotin,disease,Propionic Acidemia
+Biotin,disease,3-Methylcrotonyl-CoA Carboxylase Deficiency Type I
+Biotin,disease,Isovaleric Aciduria
+Biotin,disease,Pyruvate Carboxylase Deficiency
+Ascorbic acid,metabolic,Oxidation of Branched-Chain Fatty Acids
+Ascorbic acid,disease,Aromatic L-Aminoacid Decarboxylase Deficiency
+Ascorbic acid,disease,The Oncogenic Action of Fumarate
+Ascorbic acid,metabolic,Tyrosine Metabolism
+Ascorbic acid,metabolic,Catecholamine Biosynthesis
+Ascorbic acid,disease,Tyrosinemia Type I
+Ascorbic acid,drug_action,Disulfiram Action Pathway
+Ascorbic acid,metabolic,Phytanic Acid Peroxisomal Oxidation
+Ascorbic acid,metabolic,Carnitine Synthesis
+Ascorbic acid,disease,The Oncogenic Action of Succinate
+Ascorbic acid,disease,Alkaptonuria
+Ascorbic acid,disease,Hawkinsinuria
+Ascorbic acid,disease,Refsum Disease
+Ascorbic acid,disease,"Tyrosinemia, Transient, of the Newborn"
+Ascorbic acid,disease,Tyrosine Hydroxylase Deficiency
+Ascorbic acid,disease,Dopamine beta-Hydroxylase Deficiency
+Ascorbic acid,disease,Monoamine Oxidase-A Deficiency (MAO-A)
+Aspartic acid,metabolic,Malate-Aspartate Shuttle
+Aspartic acid,disease,Adenylosuccinate Lyase Deficiency
+Aspartic acid,disease,Xanthine Dehydrogenase Deficiency (Xanthinuria)
+Aspartic acid,disease,Arginine: Glycine Amidinotransferase Deficiency (AGAT Deficiency)
+Aspartic acid,disease,Homocarnosinosis
+Aspartic acid,disease,"Carnosinuria, Carnosinemia"
+Aspartic acid,disease,"Creatine Deficiency, Guanidinoacetate Methyltransferase Deficiency"
+Aspartic acid,disease,Hyperornithinemia with Gyrate Atrophy (HOGA)
+Aspartic acid,disease,Xanthinuria Type I
+Aspartic acid,disease,Mitochondrial DNA Depletion Syndrome
+Aspartic acid,disease,Myoadenylate Deaminase Deficiency
+Aspartic acid,disease,Carbamoyl Phosphate Synthetase Deficiency
+Aspartic acid,disease,Argininosuccinic Aciduria
+Aspartic acid,metabolic,Tyrosine Metabolism
+Aspartic acid,metabolic,Ammonia Recycling
+Aspartic acid,metabolic,Arginine and Proline Metabolism
+Aspartic acid,metabolic,Purine Metabolism
+Aspartic acid,metabolic,Glutamate Metabolism
+Aspartic acid,disease,Guanidinoacetate Methyltransferase Deficiency (GAMT Deficiency)
+Aspartic acid,disease,Purine Nucleoside Phosphorylase Deficiency
+Aspartic acid,disease,Tyrosinemia Type I
+Aspartic acid,disease,Hyperinsulinism-Hyperammonemia Syndrome
+Aspartic acid,disease,Hyperprolinemia Type II
+Aspartic acid,disease,Hyperprolinemia Type I
+Aspartic acid,disease,Lesch-Nyhan Syndrome (LNS)
+Aspartic acid,disease,Gout or Kelley-Seegmiller Syndrome
+Aspartic acid,drug_action,Mercaptopurine Action Pathway
+Aspartic acid,drug_action,Disulfiram Action Pathway
+Aspartic acid,disease,L-Arginine:Glycine Amidinotransferase Deficiency
+Aspartic acid,disease,Adenine Phosphoribosyltransferase Deficiency (APRT)
+Adenosine phosphate,disease,Carbamoyl Phosphate Synthetase Deficiency
+Adenosine phosphate,disease,Argininosuccinic Aciduria
+Adenosine phosphate,metabolic,Glycine and Serine Metabolism
+Adenosine phosphate,metabolic,Ammonia Recycling
+Adenosine phosphate,metabolic,Propanoate Metabolism
+Adenosine phosphate,metabolic,Arginine and Proline Metabolism
+Adenosine phosphate,metabolic,Selenoamino Acid Metabolism
+Adenosine phosphate,metabolic,Pentose Phosphate Pathway
+Adenosine phosphate,metabolic,Histidine Metabolism
+Adenosine phosphate,metabolic,Purine Metabolism
+Adenosine phosphate,metabolic,Fatty Acid Metabolism
+Adenosine phosphate,metabolic,Pyruvate Metabolism
+Adenosine phosphate,metabolic,Glutamate Metabolism
+Adenosine phosphate,metabolic,Butyrate Metabolism
+Adenosine phosphate,metabolic,Thiamine Metabolism
+Adenosine phosphate,disease,Cystathionine beta-Synthase Deficiency
+Adenosine phosphate,disease,Guanidinoacetate Methyltransferase Deficiency (GAMT Deficiency)
+Adenosine phosphate,disease,Histidinemia
+Adenosine phosphate,disease,Leigh Syndrome
+Adenosine phosphate,disease,Purine Nucleoside Phosphorylase Deficiency
+Adenosine phosphate,disease,Pyruvate Dehydrogenase Complex Deficiency
+Adenosine phosphate,drug_action,Clarithromycin Action Pathway
+Adenosine phosphate,drug_action,Roxithromycin Action Pathway
+Adenosine phosphate,drug_action,Gentamicin Action Pathway
+Adenosine phosphate,drug_action,Oxytetracycline Action Pathway
+Adenosine phosphate,drug_action,Tetracycline Action Pathway
+Adenosine phosphate,disease,Pyruvate Decarboxylase E1 Component Deficiency (PDHE1 Deficiency)
+Adenosine phosphate,disease,Hyperinsulinism-Hyperammonemia Syndrome
+Adenosine phosphate,disease,Hyperprolinemia Type II
+Adenosine phosphate,disease,Hyperprolinemia Type I
+Tyrosine,disease,Aromatic L-Aminoacid Decarboxylase Deficiency
+Tyrosine,disease,Phenylketonuria
+Tyrosine,metabolic,Tyrosine Metabolism
+Tyrosine,metabolic,Catecholamine Biosynthesis
+Tyrosine,disease,Tyrosinemia Type I
+Tyrosine,disease,Tyrosinemia Type 3 (TYRO3)
+Tyrosine,drug_action,Disulfiram Action Pathway
+Tyrosine,metabolic,Phenylalanine and Tyrosine Metabolism
+Tyrosine,disease,Alkaptonuria
+Tyrosine,disease,Hawkinsinuria
+Tyrosine,disease,Tyrosinemia Type 2 (or Richner-Hanhart Syndrome)
+Tyrosine,disease,"Tyrosinemia, Transient, of the Newborn"
+Tyrosine,disease,Tyrosine Hydroxylase Deficiency
+Tyrosine,disease,Dopamine beta-Hydroxylase Deficiency
+Tyrosine,disease,Monoamine Oxidase-A Deficiency (MAO-A)
+Tyrosine,metabolic,Thyroid Hormone Synthesis
+Creatine,metabolic,Glycine and Serine Metabolism
+Creatine,metabolic,Arginine and Proline Metabolism
+Creatine,disease,Guanidinoacetate Methyltransferase Deficiency (GAMT Deficiency)
+Creatine,disease,Hyperprolinemia Type II
+Creatine,disease,Hyperprolinemia Type I
+Creatine,disease,L-Arginine:Glycine Amidinotransferase Deficiency
+Creatine,disease,Prolidase Deficiency (PD)
+Creatine,disease,Prolinemia Type II
+Creatine,disease,Non-Ketotic Hyperglycinemia
+Creatine,disease,Sarcosinemia
+Creatine,disease,Ornithine Aminotransferase Deficiency (OAT Deficiency)
+Creatine,disease,Hyperornithinemia-Hyperammonemia-Homocitrullinuria [HHH-syndrome]
+Creatine,disease,Dihydropyrimidine Dehydrogenase Deficiency (DHPD)
+Creatine,disease,Dimethylglycine Dehydrogenase Deficiency
+Creatine,disease,Arginine: Glycine Amidinotransferase Deficiency (AGAT Deficiency)
+Creatine,disease,Dimethylglycine Dehydrogenase Deficiency
+Creatine,disease,"Hyperglycinemia, Non-Ketotic"
+Creatine,disease,"Creatine Deficiency, Guanidinoacetate Methyltransferase Deficiency"
+Creatine,disease,Hyperornithinemia with Gyrate Atrophy (HOGA)
+Creatine,disease,3-Phosphoglycerate Dehydrogenase Deficiency
+Vitamin A,metabolic,Retinol Metabolism
+Vitamin A,disease,Vitamin A Deficiency
+Ramipril,drug_action,Ramipril Action Pathway
+Ramipril,drug_metabolism,Ramipril Metabolism Pathway
+Caffeine,metabolic,Caffeine Metabolism
+Argatroban,drug_action,Argatroban Action Pathway
+Liothyronine,metabolic,Thyroid Hormone Synthesis
+Lidocaine,drug_action,Lidocaine (Antiarrhythmic) Action Pathway
+Lidocaine,drug_action,Lidocaine (Local Anaesthetic) Action Pathway
+Lidocaine,drug_metabolism,Lidocaine (Local Anaesthetic) Metabolism Pathway
+Pamidronic acid,drug_action,Pamidronate Action Pathway
+Valproic acid,drug_metabolism,Valproic Acid Metabolism Pathway
+Gefitinib,drug_action,Gefitinib Action Pathway
+Indomethacin,drug_action,Indomethacin Action Pathway
+Sapropterin,metabolic,Tryptophan Metabolism
+Sapropterin,disease,Arginine: Glycine Amidinotransferase Deficiency (AGAT Deficiency)
+Sapropterin,disease,DOPA-Responsive Dystonia
+Sapropterin,disease,"Creatine Deficiency, Guanidinoacetate Methyltransferase Deficiency"
+Sapropterin,disease,Hyperornithinemia with Gyrate Atrophy (HOGA)
+Sapropterin,drug_metabolism,Doxorubicin Metabolism Pathway
+Sapropterin,metabolic,Tyrosine Metabolism
+Sapropterin,metabolic,Arginine and Proline Metabolism
+Sapropterin,disease,Guanidinoacetate Methyltransferase Deficiency (GAMT Deficiency)
+Sapropterin,disease,Tyrosinemia Type I
+Sapropterin,disease,Hyperprolinemia Type II
+Sapropterin,disease,Hyperprolinemia Type I
+Sapropterin,drug_action,Disulfiram Action Pathway
+Sapropterin,disease,Hyperphenylalaniemia Due to Guanosine Triphosphate Cyclohydrolase Deficiency
+Sapropterin,disease,Hyperphenylalaninemia Due to 6-Pyruvoyltetrahydropterin Synthase Deficiency (ptps)
+Sapropterin,disease,L-Arginine:Glycine Amidinotransferase Deficiency
+Sapropterin,metabolic,Pterine Biosynthesis
+Sapropterin,disease,Alkaptonuria
+Sapropterin,disease,Hawkinsinuria
+Sapropterin,disease,Prolidase Deficiency (PD)
+Sapropterin,disease,Prolinemia Type II
+Sapropterin,disease,Ornithine Aminotransferase Deficiency (OAT Deficiency)
+Sapropterin,disease,Hyperphenylalaninemia Due to DHPR-Deficiency
+Sapropterin,disease,Segawa Syndrome
+Sapropterin,disease,Sepiapterin Reductase Deficiency
+Sapropterin,disease,"Tyrosinemia, Transient, of the Newborn"
+Sapropterin,disease,Dopamine beta-Hydroxylase Deficiency
+Sapropterin,disease,Hyperornithinemia-Hyperammonemia-Homocitrullinuria [HHH-syndrome]
+Sapropterin,disease,Monoamine Oxidase-A Deficiency (MAO-A)
+Sapropterin,signaling,Nitric Oxide Signaling Pathway
+Vinorelbine,drug_action,Vinorelbine Action Pathway
+Sorafenib,drug_metabolism,Sorafenib Metabolism Pathway
+Ardeparin,drug_action,Enoxaparin Action Pathway
+Ardeparin,drug_action,Ardeparin Action Pathway
+Gemcitabine,drug_metabolism,Gemcitabine Metabolism Pathway
+Gemcitabine,drug_action,Gemcitabine Action Pathway
+Teniposide,drug_action,Teniposide Action Pathway
+Teniposide,drug_metabolism,Teniposide Metabolism Pathway
+Framycetin,drug_action,Neomycin Action Pathway
+Celecoxib,drug_action,Celecoxib Action Pathway
+Celecoxib,drug_metabolism,Celecoxib Metabolism Pathway
+Fosinopril,drug_action,Fosinopril Action Pathway
+Fosinopril,drug_metabolism,Fosinopril Metabolism Pathway
+Trandolapril,drug_action,Trandolapril Action Pathway
+Trandolapril,drug_metabolism,Trandolapril Metabolism Pathway
+Erlotinib,drug_action,Erlotinib Action Pathway
+Vincristine,drug_action,Vincristine Action Pathway
+Benazepril,drug_action,Benazepril Action Pathway
+Benazepril,drug_metabolism,Benazepril Metabolism Pathway
+Fluorouracil,drug_action,Capecitabine Action Pathway
+Fluorouracil,drug_action,Fluorouracil Action Pathway
+Fluorouracil,drug_metabolism,Capecitabine Metabolism Pathway
+Fluorouracil,drug_metabolism,Fluorouracil Metabolism Pathway
+Methotrexate,drug_action,Methotrexate Action Pathway
+Fondaparinux,drug_action,Fondaparinux Action Pathway
+Vinblastine,drug_action,Vinblastine Action Pathway
+Enalapril,drug_metabolism,Enalapril Metabolism Pathway
+Enalapril,drug_action,Enalapril Action Pathway
+Imatinib,drug_action,Imatinib Inhibition of BCR-ABL
+Verapamil,drug_action,Verapamil Action Pathway
+Epinephrine,disease,Aromatic L-Aminoacid Decarboxylase Deficiency
+Epinephrine,metabolic,Tyrosine Metabolism
+Epinephrine,metabolic,Catecholamine Biosynthesis
+Epinephrine,disease,Tyrosinemia Type I
+Epinephrine,drug_action,Disulfiram Action Pathway
+Epinephrine,disease,Alkaptonuria
+Epinephrine,disease,Hawkinsinuria
+Epinephrine,disease,"Tyrosinemia, Transient, of the Newborn"
+Epinephrine,disease,Tyrosine Hydroxylase Deficiency
+Epinephrine,disease,Dopamine beta-Hydroxylase Deficiency
+Epinephrine,disease,Monoamine Oxidase-A Deficiency (MAO-A)
+Epinephrine,drug_action,Epinephrine Action Pathway
+Moexipril,drug_action,Moexipril Action Pathway
+Moexipril,drug_metabolism,Moexipril Metabolism Pathway
+Lisinopril,drug_action,Lisinopril Action Pathway
+Irinotecan,drug_metabolism,Irinotecan Metabolism Pathway
+Irinotecan,drug_action,Irinotecan Action Pathway
+Olopatadine,drug_action,Olopatadine H1-Antihistamine Action
+Etoposide,drug_metabolism,Etoposide Metabolism Pathway
+Etoposide,drug_action,Etoposide Action Pathway
+Hydroflumethiazide,drug_action,Hydroflumethiazide Action Pathway
+Estradiol,metabolic,Estrone Metabolism
+Estradiol,disease,17-beta Hydroxysteroid Dehydrogenase III Deficiency
+Estradiol,metabolic,Androgen and Estrogen Metabolism
+Estradiol,disease,Aromatase Deficiency
+Perindopril,drug_action,Perindopril Action Pathway
+Quinapril,drug_metabolism,Quinapril Metabolism Pathway
+Quinapril,drug_action,Quinapril Action Pathway
+Etacrynic acid,drug_action,Ethacrynic Acid Action Pathway
+Acetylsalicylic acid,drug_action,Acetylsalicylic Acid Action Pathway
+Dipyridamole,drug_action,Dipyridamole (Antiplatelet) Action Pathway
+Azathioprine,drug_action,Azathioprine Action Pathway
+Azathioprine,drug_metabolism,Azathioprine Metabolism Pathway
+Doxorubicin,drug_metabolism,Doxorubicin Metabolism Pathway
+Minocycline,drug_action,Minocycline Action Pathway
+Trichlormethiazide,drug_action,Trichlormethiazide Action Pathway
+Irbesartan,drug_action,Irbesartan Action Pathway
+Mercaptopurine,drug_action,Mercaptopurine Action Pathway
+Mercaptopurine,drug_metabolism,Azathioprine Metabolism Pathway
+Mercaptopurine,drug_action,Azathioprine Action Pathway
+Mercaptopurine,drug_action,Thioguanine Action Pathway
+Mercaptopurine,drug_metabolism,Mercaptopurine Metabolism Pathway
+Isoprenaline,drug_action,Isoprenaline Action Pathway
+Capecitabine,drug_action,Capecitabine Action Pathway
+Capecitabine,drug_metabolism,Capecitabine Metabolism Pathway
+Heparin,drug_action,Heparin Action Pathway
+Heparin,signaling,Fc Epsilon Receptor I Signaling in Mast Cells
+Carvedilol,drug_action,Carvedilol Action Pathway
+Rescinnamine,drug_action,Rescinnamine Action Pathway
+Naloxone,drug_action,Naloxone Action Pathway
+Captopril,drug_action,Captopril Action Pathway
+Dasatinib,drug_action,Dasatinib Inhibition of BCR-ABL
+Glucosamine,metabolic,Amino Sugar Metabolism
+Glucosamine,disease,"G(M2)-Gangliosidosis: Variant B, Tay-Sachs Disease"
+Glucosamine,disease,Sialuria or French Type Sialuria
+Glucosamine,disease,Sialuria or French Type Sialuria
+Glucosamine,disease,Salla Disease/Infantile Sialic Acid Storage Disease
+Glucosamine,disease,Tay-Sachs Disease
+Cilazapril,drug_action,Cilazapril Action Pathway
+Cilazapril,drug_metabolism,Cilazapril Metabolism Pathway
+Spirapril,drug_action,Spirapril Action Pathway
+Spirapril,drug_metabolism,Spirapril Metabolism Pathway
+Zinc,metabolic,Pterine Biosynthesis
+Zinc,metabolic,beta-Alanine Metabolism
+Zinc,metabolic,Vitamin B6 Metabolism
+Zinc,metabolic,Methionine Metabolism
+Zinc,metabolic,Aspartate Metabolism
+Zinc,metabolic,Retinol Metabolism
+Zinc,drug_action,Piroxicam Action Pathway
+Zinc,drug_action,Rofecoxib Action Pathway
+Zinc,drug_action,Diclofenac Action Pathway
+Zinc,drug_action,Sulindac Action Pathway
+Zinc,drug_action,Nabumetone Action Pathway
+Zinc,drug_action,Valdecoxib Action Pathway
+Zinc,disease,2-Hydroxyglutric Aciduria (D and L Form)
+Zinc,disease,Adenosine Deaminase Deficiency
+Zinc,drug_action,Benazepril Action Pathway
+Zinc,drug_action,Quinapril Action Pathway
+Zinc,drug_action,Ramipril Action Pathway
+Zinc,drug_action,Rescinnamine Action Pathway
+Zinc,drug_action,Eprosartan Action Pathway
+Zinc,drug_action,Irbesartan Action Pathway
+Zinc,drug_action,Losartan Action Pathway
+Zinc,drug_action,Valsartan Action Pathway
+Zinc,disease,AICA-Ribosiduria
+Zinc,disease,Alkaptonuria
+Zinc,disease,beta-Ureidopropionase Deficiency
+Zinc,disease,Canavan Disease
+Zinc,disease,Dihydropyrimidinase Deficiency
+Zinc,disease,Galactosemia
+Zinc,disease,gamma-Glutamyltransferase Deficiency
+Zinc,disease,Hawkinsinuria
+Nicotinamide,metabolic,Nicotinate and Nicotinamide Metabolism
+Nilotinib,drug_action,Nilotinib Inhibition of BCR-ABL
+Ximelagatran,drug_action,Ximelagatran Action Pathway
+Bosutinib,drug_action,Bosutinib Inhibition of BCR-ABL
+Ponatinib,drug_action,Ponatinib Inhibition of BCR-ABL

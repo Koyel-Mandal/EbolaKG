@@ -1,0 +1,110 @@
+Protein_Symbol,Organism,UniProt_ID,Protein_Name
+GP,Sudan ebolavirus (strain Boniface-76),Q66814,Envelope glycoprotein
+GP,Sudan ebolavirus (strain Boniface-76),P60172,Pre-small/secreted glycoprotein
+GP,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q7T9D9,Envelope glycoprotein
+GP,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q7T9E0,Pre-small/secreted glycoprotein
+GP,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),P0C772,Super small secreted glycoprotein
+GP,Sudan ebolavirus (strain Maleo-79),Q66798,Envelope glycoprotein
+GP,Sudan ebolavirus (strain Maleo-79),P60173,Pre-small/secreted glycoprotein
+GP,Tai Forest ebolavirus (strain Cote d'Ivoire-94),Q66810,Envelope glycoprotein
+GP,Tai Forest ebolavirus (strain Cote d'Ivoire-94),Q66811,Pre-small/secreted glycoprotein
+GP,Zaire ebolavirus (strain Eckron-76),P87671,Envelope glycoprotein
+GP,Zaire ebolavirus (strain Eckron-76),P87670,Pre-small/secreted glycoprotein
+GP,Zaire ebolavirus (strain Gabon-94),O11457,Envelope glycoprotein
+GP,Zaire ebolavirus (strain Gabon-94),O11458,Pre-small/secreted glycoprotein
+GP,Zaire ebolavirus (strain Gabon-94),Q9QCE9,Nucleoprotein
+GP,Zaire ebolavirus (strain Kikwit-95),P87666,Envelope glycoprotein
+GP,Zaire ebolavirus (strain Kikwit-95),P60171,Pre-small/secreted glycoprotein
+GP,Zaire ebolavirus (strain Kikwit-95),P0C773,Super small secreted glycoprotein
+GP,Zaire ebolavirus (strain Mayinga-76),P60170,Pre-small/secreted glycoprotein
+GP,Zaire ebolavirus (strain Mayinga-76),Q05320,Envelope glycoprotein
+GP,Zaire ebolavirus (strain Mayinga-76),Q05322,Membrane-associated protein VP24
+GP,Zaire ebolavirus (strain Mayinga-76),Q9YMG2,Super small secreted glycoprotein
+L,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX01,RNA-directed RNA polymerase L
+L,Sudan ebolavirus (strain Maleo-79),Q66802,RNA-directed RNA polymerase L
+L,Zaire ebolavirus (strain Kikwit-95),Q6V1Q2,RNA-directed RNA polymerase L
+L,Zaire ebolavirus (strain Mayinga-76),Q05127,Polymerase cofactor VP35
+L,Zaire ebolavirus (strain Mayinga-76),Q05318,RNA-directed RNA polymerase L
+L,Zaire ebolavirus (strain Mayinga-76),Q05320,Envelope glycoprotein
+NP,Sudan ebolavirus (strain Boniface-76),Q9QP77,Nucleoprotein
+NP,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX07,Polymerase cofactor VP35
+NP,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX01,RNA-directed RNA polymerase L
+NP,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX08,Nucleoprotein
+NP,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX03,Transcriptional activator VP30
+NP,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX06,Matrix protein VP40
+NP,Sudan ebolavirus (strain Maleo-79),Q66802,RNA-directed RNA polymerase L
+NP,Zaire ebolavirus (strain Gabon-94),Q9QCE9,Nucleoprotein
+NP,Zaire ebolavirus (strain Gabon-94),Q2PDK5,Matrix protein VP40
+NP,Zaire ebolavirus (strain Kikwit-95),Q77DJ5,Transcriptional activator VP30
+NP,Zaire ebolavirus (strain Kikwit-95),O72142,Nucleoprotein
+NP,Zaire ebolavirus (strain Kikwit-95),Q6V1Q9,Polymerase cofactor VP35
+NP,Zaire ebolavirus (strain Kikwit-95),Q6V1Q2,RNA-directed RNA polymerase L
+NP,Zaire ebolavirus (strain Kikwit-95),Q77DJ6,Matrix protein VP40
+NP,Zaire ebolavirus (strain Mayinga-76),Q05323,Transcriptional activator VP30
+NP,Zaire ebolavirus (strain Mayinga-76),P18272,Nucleoprotein
+NP,Zaire ebolavirus (strain Mayinga-76),Q05127,Polymerase cofactor VP35
+NP,Zaire ebolavirus (strain Mayinga-76),Q05322,Membrane-associated protein VP24
+NP,Zaire ebolavirus (strain Mayinga-76),Q05128,Matrix protein VP40
+NP,Zaire ebolavirus (strain Mayinga-76),Q05318,RNA-directed RNA polymerase L
+VP24,Sudan ebolavirus (strain Boniface-76),Q9QP77,Nucleoprotein
+VP24,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX02,Membrane-associated protein VP24
+VP24,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX08,Nucleoprotein
+VP24,Zaire ebolavirus (strain Gabon-94),O11459,Membrane-associated protein VP24
+VP24,Zaire ebolavirus (strain Gabon-94),O11457,Envelope glycoprotein
+VP24,Zaire ebolavirus (strain Gabon-94),Q2PDK5,Matrix protein VP40
+VP24,Zaire ebolavirus (strain Gabon-94),Q9QCE9,Nucleoprotein
+VP24,Zaire ebolavirus (strain Kikwit-95),Q6V1Q3,Membrane-associated protein VP24
+VP24,Zaire ebolavirus (strain Kikwit-95),O72142,Nucleoprotein
+VP24,Zaire ebolavirus (strain Mayinga-76),Q05322,Membrane-associated protein VP24
+VP24,Zaire ebolavirus (strain Mayinga-76),P18272,Nucleoprotein
+VP24,Zaire ebolavirus (strain Mayinga-76),Q05127,Polymerase cofactor VP35
+VP24,Zaire ebolavirus (strain Mayinga-76),Q05128,Matrix protein VP40
+VP30,Sudan ebolavirus (strain Boniface-76),Q9QP77,Nucleoprotein
+VP30,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX03,Transcriptional activator VP30
+VP30,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX07,Polymerase cofactor VP35
+VP30,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX08,Nucleoprotein
+VP30,Zaire ebolavirus (strain Gabon-94),Q9QCE9,Nucleoprotein
+VP30,Zaire ebolavirus (strain Kikwit-95),Q77DJ5,Transcriptional activator VP30
+VP30,Zaire ebolavirus (strain Kikwit-95),Q6V1Q9,Polymerase cofactor VP35
+VP30,Zaire ebolavirus (strain Kikwit-95),O72142,Nucleoprotein
+VP30,Zaire ebolavirus (strain Mayinga-76),Q05323,Transcriptional activator VP30
+VP30,Zaire ebolavirus (strain Mayinga-76),P18272,Nucleoprotein
+VP30,Zaire ebolavirus (strain Mayinga-76),Q05127,Polymerase cofactor VP35
+VP35,Sudan ebolavirus (strain Boniface-76),Q9QP77,Nucleoprotein
+VP35,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX07,Polymerase cofactor VP35
+VP35,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX08,Nucleoprotein
+VP35,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX03,Transcriptional activator VP30
+VP35,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX06,Matrix protein VP40
+VP35,Zaire ebolavirus (strain Gabon-94),Q2PDK5,Matrix protein VP40
+VP35,Zaire ebolavirus (strain Gabon-94),Q9QCE9,Nucleoprotein
+VP35,Zaire ebolavirus (strain Kikwit-95),Q6V1Q9,Polymerase cofactor VP35
+VP35,Zaire ebolavirus (strain Kikwit-95),Q77DJ5,Transcriptional activator VP30
+VP35,Zaire ebolavirus (strain Kikwit-95),Q77DJ6,Matrix protein VP40
+VP35,Zaire ebolavirus (strain Kikwit-95),O72142,Nucleoprotein
+VP35,Zaire ebolavirus (strain Mayinga-76),Q05127,Polymerase cofactor VP35
+VP35,Zaire ebolavirus (strain Mayinga-76),Q05128,Matrix protein VP40
+VP35,Zaire ebolavirus (strain Mayinga-76),Q05318,RNA-directed RNA polymerase L
+VP35,Zaire ebolavirus (strain Mayinga-76),Q05323,Transcriptional activator VP30
+VP35,Zaire ebolavirus (strain Mayinga-76),Q05322,Membrane-associated protein VP24
+VP35,Zaire ebolavirus (strain Mayinga-76),P18272,Nucleoprotein
+VP35,Zaire ebolavirus (strain Mayinga-76),Q9YMG2,Super small secreted glycoprotein
+VP40,Sudan ebolavirus (strain Boniface-76),Q66814,Envelope glycoprotein
+VP40,Sudan ebolavirus (strain Boniface-76),Q9QP77,Nucleoprotein
+VP40,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX06,Matrix protein VP40
+VP40,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q7T9D9,Envelope glycoprotein
+VP40,Sudan ebolavirus (strain Human/Uganda/Gulu/2000),Q5XX08,Nucleoprotein
+VP40,Sudan ebolavirus (strain Maleo-79),Q66798,Envelope glycoprotein
+VP40,Zaire ebolavirus (strain Eckron-76),P87671,Envelope glycoprotein
+VP40,Zaire ebolavirus (strain Gabon-94),Q2PDK5,Matrix protein VP40
+VP40,Zaire ebolavirus (strain Gabon-94),O11457,Envelope glycoprotein
+VP40,Zaire ebolavirus (strain Gabon-94),Q9QCE9,Nucleoprotein
+VP40,Zaire ebolavirus (strain Gabon-94),O11459,Membrane-associated protein VP24
+VP40,Zaire ebolavirus (strain Kikwit-95),Q77DJ6,Matrix protein VP40
+VP40,Zaire ebolavirus (strain Kikwit-95),P87666,Envelope glycoprotein
+VP40,Zaire ebolavirus (strain Kikwit-95),O72142,Nucleoprotein
+VP40,Zaire ebolavirus (strain Mayinga-76),Q05128,Matrix protein VP40
+VP40,Zaire ebolavirus (strain Mayinga-76),P18272,Nucleoprotein
+VP40,Zaire ebolavirus (strain Mayinga-76),Q05127,Polymerase cofactor VP35
+VP40,Zaire ebolavirus (strain Mayinga-76),Q05322,Membrane-associated protein VP24
+VP40,Zaire ebolavirus (strain Mayinga-76),Q05320,Envelope glycoprotein
+VP40,Zaire ebolavirus (strain Mayinga-76),Q9YMG2,Super small secreted glycoprotein

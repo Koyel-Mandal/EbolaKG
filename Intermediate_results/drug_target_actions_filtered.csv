@@ -1,0 +1,749 @@
+DrugBankID,DrugName,Type,Groups,GeneSymbol,Action
+DB00006,Bivalirudin,small molecule,approved|investigational,F2,inhibitor
+DB00114,Pyridoxal phosphate,small molecule,approved|investigational|nutraceutical,ODC1,cofactor
+DB00114,Pyridoxal phosphate,small molecule,approved|investigational|nutraceutical,TAT,cofactor
+DB00114,Pyridoxal phosphate,small molecule,approved|investigational|nutraceutical,SDS,cofactor
+DB00114,Pyridoxal phosphate,small molecule,approved|investigational|nutraceutical,SPTLC1,cofactor
+DB00119,Pyruvic acid,small molecule,approved|investigational|nutraceutical,PDHB,
+DB00119,Pyruvic acid,small molecule,approved|investigational|nutraceutical,PC,
+DB00120,Phenylalanine,small molecule,approved|investigational|nutraceutical,TAT,
+DB00120,Phenylalanine,small molecule,approved|investigational|nutraceutical,TH,binder
+DB00121,Biotin,small molecule,approved|investigational|nutraceutical,PC,cofactor
+DB00126,Ascorbic acid,small molecule,approved|nutraceutical,PAM,cofactor
+DB00128,Aspartic acid,small molecule,approved|nutraceutical,ASS1,
+DB00128,Aspartic acid,small molecule,approved|nutraceutical,PAICS,substrate
+DB00128,Aspartic acid,small molecule,approved|nutraceutical,LYZ,
+DB00129,Ornithine,small molecule,approved|nutraceutical,ARG1,
+DB00131,Adenosine phosphate,small molecule,approved|investigational|nutraceutical|withdrawn,CREB1,activator
+DB00135,Tyrosine,small molecule,approved|investigational|nutraceutical,TH,binder
+DB00135,Tyrosine,small molecule,approved|investigational|nutraceutical,TAT,
+DB00142,Glutamic acid,small molecule,approved|nutraceutical,TAT,
+DB00148,Creatine,small molecule,approved|investigational|nutraceutical,CKB,ligand
+DB00157,NADH,small molecule,approved|nutraceutical,UGDH,
+DB00157,NADH,small molecule,approved|nutraceutical,PHGDH,
+DB00157,NADH,small molecule,approved|nutraceutical,GAPDH,
+DB00157,NADH,small molecule,approved|nutraceutical,PDHB,
+DB00157,NADH,small molecule,approved|nutraceutical,DLAT,
+DB00157,NADH,small molecule,approved|nutraceutical,TYR,
+DB00162,Vitamin A,small molecule,approved|nutraceutical|vet_approved,APOD,ligand
+DB00162,Vitamin A,small molecule,approved|nutraceutical|vet_approved,PTGDS,ligand
+DB00170,Menadione,small molecule,approved|nutraceutical,F2,activator
+DB00170,Menadione,small molecule,approved|nutraceutical,F9,activator
+DB00173,Adenine,small molecule,approved|nutraceutical,SRPK2,
+DB00174,Asparagine,small molecule,approved|investigational|nutraceutical,SLC1A5,
+DB00178,Ramipril,small molecule,approved,ACE,inhibitor
+DB00181,Baclofen,small molecule,approved,CXCR4,allosteric modulator
+DB00201,Caffeine,small molecule,approved,PRKDC,inhibitor
+DB00201,Caffeine,small molecule,approved,ATM,inhibitor
+DB00203,Sildenafil,small molecule,approved|investigational,ODC1,downregulator
+DB00205,Pyrimethamine,small molecule,approved|investigational|vet_approved,HEXB,
+DB00206,Reserpine,small molecule,approved|investigational|withdrawn,BIRC5,
+DB00210,Adapalene,small molecule,approved,JUN,antagonist
+DB00210,Adapalene,small molecule,approved,TLR2,antagonist
+DB00218,Moxifloxacin,small molecule,approved|investigational,TOP2A,inhibitor
+DB00276,Amsacrine,small molecule,approved|investigational,TOP2A,inhibitor
+DB00276,Amsacrine,small molecule,approved|investigational,ALB,
+DB00277,Theophylline,small molecule,approved,PARP1,
+DB00278,Argatroban,small molecule,approved|investigational,F2,inhibitor
+DB00279,Liothyronine,small molecule,approved|vet_approved,PCNA,antagonist
+DB00281,Lidocaine,small molecule,approved|vet_approved,EGFR,antagonist
+DB00282,Pamidronic acid,small molecule,approved,CASP3,activator
+DB00284,Acarbose,small molecule,approved|investigational,SI,inhibitor
+DB00284,Acarbose,small molecule,approved|investigational,GAA,inhibitor
+DB00293,Raltitrexed,small molecule,approved|investigational,TYMS,inhibitor
+DB00313,Valproic acid,small molecule,approved|investigational,HDAC1,inhibitor
+DB00313,Valproic acid,small molecule,approved|investigational,CDKN1A,regulator
+DB00313,Valproic acid,small molecule,approved|investigational,HGF,inhibitor
+DB00313,Valproic acid,small molecule,approved|investigational,ODC1,downregulator
+DB00317,Gefitinib,small molecule,approved|investigational,EGFR,antagonist
+DB00321,Amitriptyline,small molecule,approved,NTRK1,agonist
+DB00321,Amitriptyline,small molecule,approved,NTRK1,activator
+DB00322,Floxuridine,small molecule,approved,TYMS,
+DB00328,Indomethacin,small molecule,approved|investigational,EIF2AK2,inducer
+DB00337,Pimecrolimus,small molecule,approved|investigational,MTOR,potentiator
+DB00339,Pyrazinamide,small molecule,approved|investigational,FAS,inhibitor
+DB00360,Sapropterin,small molecule,approved|investigational,TH,cofactor
+DB00361,Vinorelbine,small molecule,approved|investigational,TUBB,antagonist
+DB00361,Vinorelbine,small molecule,approved|investigational,TUBB,inhibitor
+DB00364,Sucralfate,small molecule,approved,FGF2,agonist
+DB00364,Sucralfate,small molecule,approved,FGF2,inducer
+DB00364,Sucralfate,small molecule,approved,EGF,inducer
+DB00380,Dexrazoxane,small molecule,approved|withdrawn,TOP2A,inhibitor
+DB00385,Valrubicin,small molecule,approved,TOP2A,inhibitor
+DB00390,Digoxin,small molecule,approved,ATP1A1,inhibitor
+DB00398,Sorafenib,small molecule,approved|investigational,FLT4,inhibitor
+DB00398,Sorafenib,small molecule,approved|investigational,FLT1,inhibitor
+DB00398,Sorafenib,small molecule,approved|investigational,FLT3,inhibitor
+DB00398,Sorafenib,small molecule,approved|investigational,KIT,antagonist
+DB00407,Ardeparin,small molecule,approved|investigational|withdrawn,SERPINC1,potentiator
+DB00407,Ardeparin,small molecule,approved|investigational|withdrawn,SERPIND1,agonist
+DB00419,Miglustat,small molecule,approved,UGCG,inhibitor
+DB00432,Trifluridine,small molecule,approved|investigational,TYMS,inhibitor
+DB00441,Gemcitabine,small molecule,approved,TYMS,inhibitor
+DB00444,Teniposide,small molecule,approved,TOP2A,inhibitor
+DB00445,Epirubicin,small molecule,approved,TOP2A,inhibitor
+DB00451,Levothyroxine,small molecule,approved,ITGAV,
+DB00452,Framycetin,small molecule,approved,CXCR4,antagonist
+DB00467,Enoxacin,small molecule,approved|investigational,TOP2A,inhibitor
+DB00482,Celecoxib,small molecule,approved|investigational,PDPK1,inhibitor
+DB00487,Pefloxacin,small molecule,approved,TOP2A,inhibitor
+DB00491,Miglitol,small molecule,approved,GAA,antagonist
+DB00491,Miglitol,small molecule,approved,GANAB,antagonist
+DB00492,Fosinopril,small molecule,approved,ACE,inhibitor
+DB00493,Cefotaxime,small molecule,approved,ALB,
+DB00511,Acetyldigitoxin,small molecule,approved,ATP1A1,inhibitor
+DB00514,Dextromethorphan,small molecule,approved,PGRMC1,binder
+DB00515,Cisplatin,small molecule,approved,TF,
+DB00518,Albendazole,small molecule,approved|vet_approved,TUBA1A,inhibitor
+DB00519,Trandolapril,small molecule,approved,ACE,inhibitor
+DB00530,Erlotinib,small molecule,approved|investigational,EGFR,antagonist
+DB00537,Ciprofloxacin,small molecule,approved|investigational,TOP2A,inhibitor
+DB00540,Nortriptyline,small molecule,approved,PGRMC1,binder
+DB00541,Vincristine,small molecule,approved|investigational,TUBB,inhibitor
+DB00542,Benazepril,small molecule,approved|investigational,ACE,inhibitor
+DB00544,Fluorouracil,small molecule,approved,TYMS,other/unknown
+DB00548,Azelaic acid,small molecule,approved,TYR,inhibitor
+DB00552,Pentostatin,small molecule,approved|investigational,ADA,inhibitor
+DB00563,Methotrexate,small molecule,approved,TYMS,inhibitor
+DB00569,Fondaparinux,small molecule,approved|investigational,SERPINC1,potentiator
+DB00570,Vinblastine,small molecule,approved,TUBA1A,binder
+DB00570,Vinblastine,small molecule,approved,TUBB,binder
+DB00570,Vinblastine,small molecule,approved,JUN,other/unknown
+DB00584,Enalapril,small molecule,approved|vet_approved,ACE,inhibitor
+DB00591,Fluocinolone acetonide,small molecule,approved|investigational|vet_approved,ANXA5,inducer
+DB00600,Monobenzone,small molecule,approved,TYR,inhibitor
+DB00603,Medroxyprogesterone acetate,small molecule,approved|investigational,ABCB1,inhibitor
+DB00608,Chloroquine,small molecule,approved|investigational|vet_approved,TNF,inhibitor
+DB00608,Chloroquine,small molecule,approved|investigational|vet_approved,TLR9,inhibitor
+DB00608,Chloroquine,small molecule,approved|investigational|vet_approved,HMGB1,inhibitor
+DB00608,Chloroquine,small molecule,approved|investigational|vet_approved,ACE2,modulator
+DB00615,Rifabutin,small molecule,approved|investigational,HSP90B1,other/unknown
+DB00619,Imatinib,small molecule,approved,BCR,inhibitor
+DB00619,Imatinib,small molecule,approved,KIT,antagonist
+DB00619,Imatinib,small molecule,approved,NTRK1,antagonist
+DB00619,Imatinib,small molecule,approved,ABL1,inhibitor
+DB00642,Pemetrexed,small molecule,approved|investigational,TYMS,inhibitor
+DB00642,Pemetrexed,small molecule,approved|investigational,GART,inhibitor
+DB00643,Mebendazole,small molecule,approved|vet_approved,TUBA1A,inhibitor
+DB00661,Verapamil,small molecule,approved,ABCB1,inhibitor
+DB00661,Verapamil,small molecule,approved,ABCB1,blocker
+DB00668,Epinephrine,small molecule,approved|vet_approved,TNF,antagonist
+DB00668,Epinephrine,small molecule,approved|vet_approved,TNF,agonist
+DB00677,Isoflurophate,small molecule,approved|investigational|withdrawn,TF,
+DB00685,Trovafloxacin,small molecule,approved|investigational|withdrawn,TOP2A,inhibitor
+DB00686,Pentosan polysulfate,small molecule,approved,FGF2,antagonist
+DB00691,Moexipril,small molecule,approved,ACE,inhibitor
+DB00694,Daunorubicin,small molecule,approved,TOP2A,inhibitor
+DB00720,Clodronic acid,small molecule,approved|investigational|vet_approved,SLC25A5,inhibitor
+DB00722,Lisinopril,small molecule,approved|investigational,ACE,inhibitor
+DB00724,Imiquimod,small molecule,approved|investigational,TLR7,agonist
+DB00724,Imiquimod,small molecule,approved|investigational,TLR8,agonist
+DB00747,Scopolamine,small molecule,approved|investigational,SI,inhibitor
+DB00762,Irinotecan,small molecule,approved|investigational,TOP1,inhibitor
+DB00765,Metyrosine,small molecule,approved,TH,binder
+DB00768,Olopatadine,small molecule,approved,S100B,other/unknown
+DB00773,Etoposide,small molecule,approved,TOP2A,inhibitor
+DB00774,Hydroflumethiazide,small molecule,approved|investigational|withdrawn,ATP1A1,inducer
+DB00778,Roxithromycin,small molecule,approved|investigational|withdrawn,ABCB1,
+DB00783,Estradiol,small molecule,approved|investigational|vet_approved,BECN1,binder
+DB00790,Perindopril,small molecule,approved,ACE,inhibitor
+DB00813,Fentanyl,small molecule,approved|illicit|investigational|vet_approved,ABCB1,
+DB00852,Pseudoephedrine,small molecule,approved,TNF,inhibitor
+DB00852,Pseudoephedrine,small molecule,approved,IL2,inhibitor
+DB00877,Sirolimus,small molecule,approved|investigational,MTOR,inhibitor
+DB00881,Quinapril,small molecule,approved|investigational,ACE,inhibitor
+DB00903,Etacrynic acid,small molecule,approved|investigational,ATP1A1,inhibitor
+DB00924,Cyclobenzaprine,small molecule,approved,TLR4,inhibitor
+DB00945,Acetylsalicylic acid,small molecule,approved|vet_approved,TP53,inducer
+DB00945,Acetylsalicylic acid,small molecule,approved|vet_approved,HSPA5,inhibitor
+DB00945,Acetylsalicylic acid,small molecule,approved|vet_approved,HSPA5,binder
+DB00945,Acetylsalicylic acid,small molecule,approved|vet_approved,CASP3,inhibitor
+DB00945,Acetylsalicylic acid,small molecule,approved|vet_approved,CASP3,downregulator
+DB00945,Acetylsalicylic acid,small molecule,approved|vet_approved,MYC,downregulator
+DB00945,Acetylsalicylic acid,small molecule,approved|vet_approved,PCNA,downregulator
+DB00970,Dactinomycin,small molecule,approved|investigational,TOP2A,inhibitor
+DB00970,Dactinomycin,small molecule,approved|investigational,TOP1,inhibitor
+DB00973,Ezetimibe,small molecule,approved,NPC1L1,inhibitor
+DB00975,Dipyridamole,small molecule,approved,ADA,inhibitor
+DB00978,Lomefloxacin,small molecule,approved|investigational,TOP2A,inhibitor
+DB00988,Dopamine,small molecule,approved,SOD1,
+DB00993,Azathioprine,small molecule,approved,RAC1,modulator
+DB00997,Doxorubicin,small molecule,approved|investigational,TOP2A,inhibitor
+DB00997,Doxorubicin,small molecule,approved|investigational,TOP1,inhibitor
+DB01003,Cromoglicic acid,small molecule,approved,S100P,antagonist
+DB01017,Minocycline,small molecule,approved|investigational,CASP3,negative modulator
+DB01021,Trichlormethiazide,small molecule,approved|vet_approved,ATP1A1,inhibitor
+DB01029,Irbesartan,small molecule,approved|investigational,JUN,other/unknown
+DB01030,Topotecan,small molecule,approved|investigational,TOP1,inhibitor
+DB01033,Mercaptopurine,small molecule,approved,HPRT1,inhibitor
+DB01059,Norfloxacin,small molecule,approved,TOP2A,inhibitor
+DB01059,Norfloxacin,small molecule,approved,TOP2A,inhibitor
+DB01064,Isoprenaline,small molecule,approved|investigational,SOD1,stabilization
+DB01065,Melatonin,small molecule,approved|nutraceutical|vet_approved,CALR,
+DB01076,Atorvastatin,small molecule,approved,DPP4,inhibitor
+DB01077,Etidronic acid,small molecule,approved,SLC25A5,inhibitor
+DB01078,Deslanoside,small molecule,approved,ATP1A1,inhibitor
+DB01092,Ouabain,small molecule,approved,ATP1A1,inhibitor
+DB01093,Dimethyl sulfoxide,small molecule,approved|vet_approved,MYC,downregulator
+DB01097,Leflunomide,small molecule,approved|investigational,DHODH,inhibitor
+DB01101,Capecitabine,small molecule,approved|investigational,TYMS,inhibitor
+DB01104,Sertraline,small molecule,approved,PGRMC1,inhibitor
+DB01104,Sertraline,small molecule,approved,PGRMC1,binder
+DB01109,Heparin,small molecule,approved|investigational,SERPINC1,potentiator
+DB01109,Heparin,small molecule,approved|investigational,FGF2,
+DB01109,Heparin,small molecule,approved|investigational,HGF,
+DB01117,Atovaquone,small molecule,approved,DHODH,inhibitor
+DB01123,Proflavine,small molecule,approved,F2,other/unknown
+DB01136,Carvedilol,small molecule,approved|investigational,HIF1A,modulator
+DB01158,Bretylium,small molecule,approved,ATP1A1,inhibitor
+DB01165,Ofloxacin,small molecule,approved,TOP2A,inhibitor
+DB01169,Arsenic trioxide,small molecule,approved|investigational,JUN,inducer
+DB01169,Arsenic trioxide,small molecule,approved|investigational,AKT1,inducer
+DB01169,Arsenic trioxide,small molecule,approved|investigational,CDKN1A,
+DB01169,Arsenic trioxide,small molecule,approved|investigational,HDAC1,
+DB01169,Arsenic trioxide,small molecule,approved|investigational,PML,
+DB01177,Idarubicin,small molecule,approved,TOP2A,inhibitor
+DB01178,Chlormezanone,small molecule,approved|investigational|withdrawn,TSPO,agonist
+DB01179,Podofilox,small molecule,approved,TUBB,inhibitor
+DB01179,Podofilox,small molecule,approved,TOP2A,inhibitor
+DB01180,Rescinnamine,small molecule,approved,ACE,inhibitor
+DB01183,Naloxone,small molecule,approved|vet_approved,CREB1,other/unknown
+DB01183,Naloxone,small molecule,approved|vet_approved,TLR4,inhibitor
+DB01188,Ciclopirox,small molecule,approved|investigational,ATP1A1,binder
+DB01196,Estramustine,small molecule,approved|investigational,MAP2,antagonist
+DB01197,Captopril,small molecule,approved,ACE,inhibitor
+DB01198,Zopiclone,small molecule,approved,TSPO,agonist
+DB01204,Mitoxantrone,small molecule,approved|investigational,TOP2A,inhibitor
+DB01208,Sparfloxacin,small molecule,approved|investigational|withdrawn,TOP2A,inhibitor
+DB01213,Fomepizole,small molecule,approved|vet_approved,CAT,inhibitor
+DB01225,Enoxaparin,small molecule,approved,SERPINC1,potentiator
+DB01225,Enoxaparin,small molecule,approved,F2,inhibitor
+DB01229,Paclitaxel,small molecule,approved|vet_approved,MAP2,
+DB01244,Bepridil,small molecule,approved|withdrawn,ATP1A1,inhibitor
+DB01248,Docetaxel,small molecule,approved|investigational,MAP2,
+DB01250,Olsalazine,small molecule,approved,IFNG,
+DB01254,Dasatinib,small molecule,approved|investigational,ABL1,inhibitor
+DB01254,Dasatinib,small molecule,approved|investigational,ABL1,multitarget
+DB01254,Dasatinib,small molecule,approved|investigational,SRC,inhibitor
+DB01254,Dasatinib,small molecule,approved|investigational,SRC,multitarget
+DB01254,Dasatinib,small molecule,approved|investigational,LCK,inhibitor
+DB01254,Dasatinib,small molecule,approved|investigational,LCK,multitarget
+DB01254,Dasatinib,small molecule,approved|investigational,KIT,antagonist
+DB01254,Dasatinib,small molecule,approved|investigational,BTK,inhibitor
+DB01254,Dasatinib,small molecule,approved|investigational,BCR,inhibitor
+DB01254,Dasatinib,small molecule,approved|investigational,HSPA8,binder
+DB01259,Lapatinib,small molecule,approved|investigational,EGFR,antagonist
+DB01259,Lapatinib,small molecule,approved|investigational,ERBB2,antagonist
+DB01261,Sitagliptin,small molecule,approved|investigational,DPP4,inhibitor
+DB01262,Decitabine,small molecule,approved|investigational,HDAC1,inhibitor
+DB01268,Sunitinib,small molecule,approved|investigational,FLT1,inhibitor
+DB01268,Sunitinib,small molecule,approved|investigational,KIT,inhibitor
+DB01268,Sunitinib,small molecule,approved|investigational,FLT4,inhibitor
+DB01268,Sunitinib,small molecule,approved|investigational,FLT3,inhibitor
+DB01268,Sunitinib,small molecule,approved|investigational,MET,inhibitor
+DB01275,Hydralazine,small molecule,approved,HIF1A,inducer
+DB01296,Glucosamine,small molecule,approved|investigational,IFNG,inhibitor
+DB01327,Cefazolin,small molecule,approved,IL2,inhibitor
+DB01340,Cilazapril,small molecule,approved,ACE,inhibitor
+DB01345,Potassium cation,small molecule,approved|investigational,ATP1A1,
+DB01348,Spirapril,small molecule,approved,ACE,inhibitor
+DB01370,Aluminium,small molecule,approved|investigational,TF,
+DB01370,Aluminium,small molecule,approved|investigational,ATP1A1,binder
+DB01378,Magnesium cation,small molecule,approved|nutraceutical,ATP1A1,
+DB01394,Colchicine,small molecule,approved,TUBB,inhibitor
+DB01394,Colchicine,small molecule,approved,TUBB,binder
+DB01396,Digitoxin,small molecule,approved|investigational,ATP1A1,inhibitor
+DB01406,Danazol,small molecule,approved,CCL2,inhibitor
+DB01407,Clenbuterol,small molecule,approved|investigational|vet_approved,TNF,other/unknown
+DB01427,Amrinone,small molecule,approved,TNF,inhibitor
+DB01430,Almitrine,small molecule,approved,ATP1A1,binder
+DB01590,Everolimus,small molecule,approved,MTOR,inhibitor
+DB01592,Iron,small molecule,approved,CP,
+DB01592,Iron,small molecule,approved,TF,
+DB01593,Zinc,small molecule,approved|investigational,ALDOA,
+DB01593,Zinc,small molecule,approved|investigational,EEF1A1,
+DB01593,Zinc,small molecule,approved|investigational,PDIA3,
+DB01593,Zinc,small molecule,approved|investigational,TPI1,
+DB01593,Zinc,small molecule,approved|investigational,TUFM,
+DB01593,Zinc,small molecule,approved|investigational,HDAC1,cofactor
+DB01593,Zinc,small molecule,approved|investigational,SOD1,
+DB01593,Zinc,small molecule,approved|investigational,S100A8,
+DB01593,Zinc,small molecule,approved|investigational,TP53,
+DB01593,Zinc,small molecule,approved|investigational,AGT,
+DB01593,Zinc,small molecule,approved|investigational,APCS,
+DB01593,Zinc,small molecule,approved|investigational,C1S,
+DB01593,Zinc,small molecule,approved|investigational,C3,
+DB01593,Zinc,small molecule,approved|investigational,C4B,
+DB01593,Zinc,small molecule,approved|investigational,C5,
+DB01593,Zinc,small molecule,approved|investigational,CLU,
+DB01593,Zinc,small molecule,approved|investigational,CP,
+DB01593,Zinc,small molecule,approved|investigational,DSP,
+DB01593,Zinc,small molecule,approved|investigational,F2,
+DB01593,Zinc,small molecule,approved|investigational,GSN,
+DB01593,Zinc,small molecule,approved|investigational,KLKB1,
+DB01593,Zinc,small molecule,approved|investigational,KNG1,
+DB01593,Zinc,small molecule,approved|investigational,SERPINA3,
+DB01593,Zinc,small molecule,approved|investigational,SERPIND1,
+DB01593,Zinc,small molecule,approved|investigational,TF,
+DB01593,Zinc,small molecule,approved|investigational,TTR,
+DB01593,Zinc,small molecule,approved|investigational,APLP1,cofactor
+DB01593,Zinc,small molecule,approved|investigational,PARP1,
+DB01611,Hydroxychloroquine,small molecule,approved,TLR7,antagonist
+DB01611,Hydroxychloroquine,small molecule,approved,TLR9,antagonist
+DB01611,Hydroxychloroquine,small molecule,approved,ACE2,modulator
+DB01632,5-O-phosphono-alpha-D-ribofuranosyl diphosphate,small molecule,approved|experimental|investigational,HPRT1,
+DB02546,Vorinostat,small molecule,approved|investigational,HDAC1,inhibitor
+DB02546,Vorinostat,small molecule,approved|investigational,HDAC1,inhibitor
+DB02659,Cholic Acid,small molecule,approved,COX5B,
+DB02701,Nicotinamide,small molecule,approved|investigational,PARP1,binder
+DB02703,Fusidic acid,small molecule,approved|investigational,CAT,inhibitor
+DB02772,Sucrose,small molecule,approved|experimental|investigational,LYZ,
+DB03017,Lauric acid,small molecule,approved|experimental,TLR4,
+DB03147,Flavin adenine dinucleotide,small molecule,approved,AIFM1,
+DB03175,Propyl alcohol,small molecule,approved,LYZ,
+DB03247,Flavin mononucleotide,small molecule,approved|investigational,DHODH,
+DB03255,Phenol,small molecule,approved|experimental,ALB,
+DB03756,Doconexent,small molecule,approved|investigational,MYC,inhibitor
+DB03904,Urea,small molecule,approved|investigational,ARG1,
+DB04115,Berberine,small molecule,approved|investigational,BIRC5,
+DB04272,Citric acid,small molecule,approved|nutraceutical|vet_approved,SRC,
+DB04272,Citric acid,small molecule,approved|nutraceutical|vet_approved,PDC,
+DB04465,Lactose,small molecule,approved|experimental|investigational,LGALS3,
+DB04835,Maraviroc,small molecule,approved|investigational,CCR5,antagonist
+DB04835,Maraviroc,small molecule,approved|investigational,CCR5,inhibitor
+DB04868,Nilotinib,small molecule,approved|investigational,ABL1,inhibitor
+DB04868,Nilotinib,small molecule,approved|investigational,KIT,antagonist
+DB04876,Vildagliptin,small molecule,approved|investigational,DPP4,inhibitor
+DB04898,Ximelagatran,small molecule,approved|investigational|withdrawn,F2,inhibitor
+DB05015,Belinostat,small molecule,approved|investigational,HDAC1,inhibitor
+DB05154,Pretomanid,small molecule,approved,FAS,other/unknown
+DB05294,Vandetanib,small molecule,approved,EGFR,inhibitor
+DB05389,Tetrachlorodecaoxide,small molecule,approved|investigational,CD163,
+DB05630,Sodium stibogluconate,small molecule,approved|investigational,TOP1,inhibitor
+DB06137,Tirbanibulin,small molecule,approved|investigational,TUBB,inhibitor
+DB06137,Tirbanibulin,small molecule,approved|investigational,SRC,inhibitor
+DB06176,Romidepsin,small molecule,approved|investigational,HDAC1,antagonist
+DB06176,Romidepsin,small molecule,approved|investigational,HDAC1,inhibitor
+DB06176,Romidepsin,small molecule,approved|investigational,HDAC1,inhibitor
+DB06203,Alogliptin,small molecule,approved,DPP4,inhibitor
+DB06243,Eflornithine,small molecule,approved|withdrawn,ODC1,inhibitor
+DB06287,Temsirolimus,small molecule,approved,MTOR,inhibitor
+DB06335,Saxagliptin,small molecule,approved,DPP4,inhibitor
+DB06589,Pazopanib,small molecule,approved,FLT1,inhibitor
+DB06589,Pazopanib,small molecule,approved,FLT4,
+DB06589,Pazopanib,small molecule,approved,KIT,inhibitor
+DB06595,Midostaurin,small molecule,approved|investigational,FLT3,antagonist
+DB06595,Midostaurin,small molecule,approved|investigational,FLT3,inhibitor
+DB06595,Midostaurin,small molecule,approved|investigational,KIT,antagonist
+DB06595,Midostaurin,small molecule,approved|investigational,KIT,inhibitor
+DB06603,Panobinostat,small molecule,approved|investigational,HDAC1,inhibitor
+DB06616,Bosutinib,small molecule,approved,ABL1,inhibitor
+DB06616,Bosutinib,small molecule,approved,SRC,inhibitor
+DB06626,Axitinib,small molecule,approved|investigational,FLT1,inhibitor
+DB06626,Axitinib,small molecule,approved|investigational,FLT4,inhibitor
+DB06695,Dabigatran etexilate,small molecule,approved,F2,inhibitor
+DB06713,Norelgestromin,small molecule,approved|investigational,ALB,
+DB06754,Danaparoid,small molecule,approved|withdrawn,SERPINC1,positive allosteric modulator
+DB06757,Manganese,small molecule,approved|nutraceutical,ARG1,
+DB06757,Manganese,small molecule,approved|nutraceutical,TF,
+DB06774,Capsaicin,small molecule,approved,PHB2,
+DB06779,Dalteparin,small molecule,approved,SERPINC1,potentiator
+DB06809,Plerixafor,small molecule,approved|investigational,CXCR4,antagonist
+DB06809,Plerixafor,small molecule,approved|investigational,CXCR4,inhibitor
+DB06813,Pralatrexate,small molecule,approved|investigational,TYMS,substrate
+DB06813,Pralatrexate,small molecule,approved|investigational,TYMS,inhibitor
+DB06819,Phenylbutyric acid,small molecule,approved|investigational,HDAC1,inhibitor
+DB06822,Tinzaparin,small molecule,approved,SERPINC1,potentiator
+DB08804,Nandrolone decanoate,small molecule,approved|illicit,IGF1R,inducer
+DB08813,Nadroparin,small molecule,approved|investigational,SERPINC1,potentiator
+DB08813,Nadroparin,small molecule,approved|investigational,MYC,inhibitor
+DB08818,Hyaluronic acid,small molecule,approved|vet_approved,CD44,binder
+DB08862,Cholecystokinin,small molecule,approved|investigational,EGF,
+DB08865,Crizotinib,small molecule,approved|investigational,MET,inhibitor
+DB08868,Fingolimod,small molecule,approved|investigational,HDAC1,inhibitor
+DB08875,Cabozantinib,small molecule,approved|investigational,MET,antagonist
+DB08877,Ruxolitinib,small molecule,approved,JAK2,inhibitor
+DB08877,Ruxolitinib,small molecule,approved,JAK1,inhibitor
+DB08877,Ruxolitinib,small molecule,approved,TYK2,inhibitor
+DB08880,Teriflunomide,small molecule,approved,DHODH,inhibitor
+DB08882,Linagliptin,small molecule,approved,DPP4,inhibitor
+DB08895,Tofacitinib,small molecule,approved|investigational,JAK1,inhibitor
+DB08895,Tofacitinib,small molecule,approved|investigational,JAK2,antagonist
+DB08895,Tofacitinib,small molecule,approved|investigational,JAK2,inhibitor
+DB08895,Tofacitinib,small molecule,approved|investigational,TYK2,
+DB08896,Regorafenib,small molecule,approved,FLT1,inhibitor
+DB08896,Regorafenib,small molecule,approved,FLT4,inhibitor
+DB08896,Regorafenib,small molecule,approved,KIT,inhibitor
+DB08896,Regorafenib,small molecule,approved,NTRK1,inhibitor
+DB08896,Regorafenib,small molecule,approved,MAPK11,inhibitor
+DB08896,Regorafenib,small molecule,approved,ABL1,inhibitor
+DB08901,Ponatinib,small molecule,approved|investigational,ABL1,inhibitor
+DB08901,Ponatinib,small molecule,approved|investigational,BCR,inhibitor
+DB08901,Ponatinib,small molecule,approved|investigational,KIT,inhibitor
+DB08901,Ponatinib,small molecule,approved|investigational,FLT3,inhibitor
+DB08901,Ponatinib,small molecule,approved|investigational,LCK,inhibitor
+DB08901,Ponatinib,small molecule,approved|investigational,SRC,inhibitor
+DB08908,Dimethyl fumarate,small molecule,approved|investigational,KEAP1,binder
+DB08910,Pomalidomide,small molecule,approved,TNF,inhibitor
+DB08912,Dabrafenib,small molecule,approved|investigational,LIMK1,inhibitor
+DB08916,Afatinib,small molecule,approved,EGFR,inhibitor
+DB08916,Afatinib,small molecule,approved,ERBB2,inhibitor
+DB09019,Bromhexine,small molecule,approved,TMPRSS2,
+DB09019,Bromhexine,small molecule,approved,ACE2,binder
+DB09020,Bisacodyl,small molecule,approved,ATP1A1,inhibitor
+DB09031,Miltefosine,small molecule,approved|investigational,ABCB1,
+DB09039,Eliglustat,small molecule,approved|investigational,UGCG,inhibitor
+DB09047,Finafloxacin,small molecule,approved|investigational,TOP2A,inhibitor
+DB09053,Ibrutinib,small molecule,approved,BTK,inhibitor
+DB09061,Cannabidiol,small molecule,approved|investigational,VDAC1,
+DB09061,Cannabidiol,small molecule,approved|investigational,CAT,inhibitor
+DB09061,Cannabidiol,small molecule,approved|investigational,SOD1,inhibitor
+DB09073,Palbociclib,small molecule,approved|investigational,CDK4,inhibitor
+DB09073,Palbociclib,small molecule,approved|investigational,CDK6,inhibitor
+DB09074,Olaparib,small molecule,approved,PARP1,inhibitor
+DB09078,Lenvatinib,small molecule,approved|investigational,FLT1,inhibitor
+DB09078,Lenvatinib,small molecule,approved|investigational,FLT4,inhibitor
+DB09078,Lenvatinib,small molecule,approved|investigational,KIT,inhibitor
+DB09079,Nintedanib,small molecule,approved,FLT1,inhibitor
+DB09079,Nintedanib,small molecule,approved,FLT4,inhibitor
+DB09079,Nintedanib,small molecule,approved,FLT3,inhibitor
+DB09079,Nintedanib,small molecule,approved,LCK,inhibitor
+DB09079,Nintedanib,small molecule,approved,SRC,inhibitor
+DB09092,Xanthinol,small molecule,approved|withdrawn,GAPDH,cofactor
+DB09096,Benzoyl peroxide,small molecule,approved,CAT,inhibitor
+DB09096,Benzoyl peroxide,small molecule,approved,SOD3,inhibitor
+DB09130,Copper,small molecule,approved|investigational,GAPDH,
+DB09130,Copper,small molecule,approved|investigational,S100A8,
+DB09130,Copper,small molecule,approved|investigational,ACTG1,
+DB09130,Copper,small molecule,approved|investigational,EEF1A1,
+DB09130,Copper,small molecule,approved|investigational,PDIA3,
+DB09130,Copper,small molecule,approved|investigational,HSPA5,
+DB09130,Copper,small molecule,approved|investigational,HSP90B1,
+DB09130,Copper,small molecule,approved|investigational,TF,
+DB09130,Copper,small molecule,approved|investigational,HNRNPA2B1,
+DB09130,Copper,small molecule,approved|investigational,HNRNPH1,
+DB09130,Copper,small molecule,approved|investigational,HNRNPH3,
+DB09130,Copper,small molecule,approved|investigational,HNRNPL,
+DB09130,Copper,small molecule,approved|investigational,ANXA5,
+DB09130,Copper,small molecule,approved|investigational,CALR,
+DB09130,Copper,small molecule,approved|investigational,HSPA8,
+DB09130,Copper,small molecule,approved|investigational,STIP1,
+DB09130,Copper,small molecule,approved|investigational,TUBB,
+DB09130,Copper,small molecule,approved|investigational,PEBP1,
+DB09130,Copper,small molecule,approved|investigational,UGDH,
+DB09130,Copper,small molecule,approved|investigational,HTT,
+DB09130,Copper,small molecule,approved|investigational,AFM,
+DB09130,Copper,small molecule,approved|investigational,AGT,
+DB09130,Copper,small molecule,approved|investigational,APCS,
+DB09130,Copper,small molecule,approved|investigational,APOD,
+DB09130,Copper,small molecule,approved|investigational,C1S,
+DB09130,Copper,small molecule,approved|investigational,C3,
+DB09130,Copper,small molecule,approved|investigational,C4B,
+DB09130,Copper,small molecule,approved|investigational,C5,
+DB09130,Copper,small molecule,approved|investigational,C9,
+DB09130,Copper,small molecule,approved|investigational,CLU,
+DB09130,Copper,small molecule,approved|investigational,F2,
+DB09130,Copper,small molecule,approved|investigational,GSN,
+DB09130,Copper,small molecule,approved|investigational,KNG1,
+DB09130,Copper,small molecule,approved|investigational,LRG1,
+DB09130,Copper,small molecule,approved|investigational,SERPINC1,
+DB09130,Copper,small molecule,approved|investigational,SERPIND1,
+DB09130,Copper,small molecule,approved|investigational,SERPINF1,
+DB09130,Copper,small molecule,approved|investigational,TTR,
+DB09130,Copper,small molecule,approved|investigational,APLP1,cofactor
+DB09131,Cupric Chloride,small molecule,approved|investigational,CSTB,
+DB09256,Tegafur,small molecule,approved|investigational,TYMS,inhibitor
+DB09258,Bemiparin,small molecule,approved|investigational,SERPINC1,antagonist
+DB09258,Bemiparin,small molecule,approved|investigational,SERPIND1,antagonist
+DB09301,Chondroitin sulfate,small molecule,approved|investigational|nutraceutical,GDNF,
+DB09301,Chondroitin sulfate,small molecule,approved|investigational|nutraceutical,CCL2,
+DB09327,Tegafur-uracil,small molecule,approved|investigational,TYMS,antagonist
+DB09330,Osimertinib,small molecule,approved,EGFR,inhibitor
+DB09330,Osimertinib,small molecule,approved,EGFR,regulator
+DB09332,Kappadione,small molecule,approved,F2,agonist
+DB09332,Kappadione,small molecule,approved,F9,agonist
+DB09477,Enalaprilat,small molecule,approved,ACE,inhibitor
+DB09526,Hydroquinone,small molecule,approved|investigational,TYR,inhibitor
+DB11093,Calcium citrate,small molecule,approved|investigational,CALR,ligand
+DB11093,Calcium citrate,small molecule,approved|investigational,SPARC,ligand
+DB11093,Calcium citrate,small molecule,approved|investigational,CANX,ligand
+DB11093,Calcium citrate,small molecule,approved|investigational,S100B,ligand
+DB11093,Calcium citrate,small molecule,approved|investigational,GCA,ligand
+DB11093,Calcium citrate,small molecule,approved|investigational,CALM3,agonist
+DB11094,Vitamin D,small molecule,approved|nutraceutical|vet_approved,GC,
+DB11217,Arbutin,small molecule,approved,TYR,inhibitor
+DB11254,Hexylresorcinol,small molecule,approved,TOP1,inhibitor
+DB11254,Hexylresorcinol,small molecule,approved,TYR,inhibitor
+DB11348,Calcium Phosphate,small molecule,approved,CALR,ligand
+DB11348,Calcium Phosphate,small molecule,approved,SPARC,ligand
+DB11348,Calcium Phosphate,small molecule,approved,CANX,ligand
+DB11348,Calcium Phosphate,small molecule,approved,S100B,ligand
+DB11348,Calcium Phosphate,small molecule,approved,GCA,ligand
+DB11348,Calcium Phosphate,small molecule,approved,CALM3,agonist
+DB11359,Guaiacol,small molecule,approved,ALB,
+DB11635,Tocofersolan,small molecule,approved,ABCB1,antagonist
+DB11638,Artenimol,small molecule,approved|experimental|investigational,ACTG1,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,DSP,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,EEF1A1,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,HNRNPA2B1,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,HNRNPK,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,IQGAP1,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,LGALS1,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,RPS17,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,TPI1,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,TUBA1A,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,HSPA8,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,TUBB,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,ALDOA,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,GAPDH,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,DDX39B,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,GAPDH,ligand
+DB11638,Artenimol,small molecule,approved|experimental|investigational,ALB,ligand
+DB11641,Vinflunine,small molecule,approved|investigational,TUBB,inhibitor
+DB11644,Tafamidis,small molecule,approved|investigational,TTR,chaperone
+DB11652,Tucatinib,small molecule,approved|investigational,ERBB2,inhibitor
+DB11679,Fruquintinib,small molecule,approved|investigational,FLT1,inhibitor
+DB11679,Fruquintinib,small molecule,approved|investigational,FLT4,inhibitor
+DB11697,Pacritinib,small molecule,approved|investigational,JAK2,inhibitor
+DB11697,Pacritinib,small molecule,approved|investigational,FLT3,inhibitor
+DB11703,Acalabrutinib,small molecule,approved|investigational,BTK,inhibitor
+DB11718,Encorafenib,small molecule,approved|investigational,LIMK1,inhibitor
+DB11730,Ribociclib,small molecule,approved|investigational,CDK4,antagonist
+DB11730,Ribociclib,small molecule,approved|investigational,CDK4,inhibitor
+DB11730,Ribociclib,small molecule,approved|investigational,CDK6,antagonist
+DB11730,Ribociclib,small molecule,approved|investigational,CDK6,inhibitor
+DB11760,Talazoparib,small molecule,approved|investigational,PARP1,inhibitor
+DB11763,Momelotinib,small molecule,approved|investigational,JAK1,inhibitor
+DB11763,Momelotinib,small molecule,approved|investigational,JAK2,inhibitor
+DB11763,Momelotinib,small molecule,approved|investigational,TYK2,inhibitor
+DB11763,Momelotinib,small molecule,approved|investigational,FLT3,inhibitor
+DB11791,Capmatinib,small molecule,approved|investigational,MET,inhibitor
+DB11793,Niraparib,small molecule,approved|investigational,PARP1,inhibitor
+DB11800,Tivozanib,small molecule,approved|investigational,FLT1,inhibitor
+DB11800,Tivozanib,small molecule,approved|investigational,FLT4,inhibitor
+DB11800,Tivozanib,small molecule,approved|investigational,KIT,inhibitor
+DB11800,Tivozanib,small molecule,approved|investigational,FLT3,inhibitor
+DB11800,Tivozanib,small molecule,approved|investigational,MET,inhibitor
+DB11817,Baricitinib,small molecule,approved|investigational,JAK1,inhibitor
+DB11817,Baricitinib,small molecule,approved|investigational,JAK2,inhibitor
+DB11817,Baricitinib,small molecule,approved|investigational,TYK2,inhibitor
+DB11828,Neratinib,small molecule,approved|investigational,EGFR,inhibitor
+DB11963,Dacomitinib,small molecule,approved|investigational,EGFR,inhibitor
+DB11986,Entrectinib,small molecule,approved|investigational,NTRK1,inhibitor
+DB11986,Entrectinib,small molecule,approved|investigational,JAK2,inhibitor
+DB12001,Abemaciclib,small molecule,approved|investigational,CDK4,inhibitor
+DB12001,Abemaciclib,small molecule,approved|investigational,CDK6,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,SYK,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,CTSL,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,ABL1,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,TYK2,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,JAK1,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,MET,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,PRKACA,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,TBK1,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,TTK,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,TYRO3,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,ZAP70,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,AXL,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,BTK,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,CDK4,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,EGFR,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,EIF2AK2,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,ERBB2,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,FER,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,FLT1,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,FLT3,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,FLT4,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,MTOR,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,IRAK4,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,JAK2,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,KIT,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,LATS1,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,LCK,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,LIMK1,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,LRRK2,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,MERTK,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,NTRK1,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,PDPK1,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,PIM1,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,RIOK2,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,ROCK2,inhibitor
+DB12010,Fostamatinib,small molecule,approved|investigational,SRC,inhibitor
+DB12141,Gilteritinib,small molecule,approved|investigational,FLT3,inhibitor
+DB12141,Gilteritinib,small molecule,approved|investigational,AXL,inhibitor
+DB12147,Erdafitinib,small molecule,approved|investigational,KIT,substrate
+DB12218,Capivasertib,small molecule,approved|investigational,AKT1,inhibitor
+DB12218,Capivasertib,small molecule,approved|investigational,AKT3,inhibitor
+DB12255,Vadadustat,small molecule,approved|investigational,HIF1A,stabilization
+DB12267,Brigatinib,small molecule,approved|investigational,EGFR,inhibitor
+DB12267,Brigatinib,small molecule,approved|investigational,ABL1,inhibitor
+DB12267,Brigatinib,small molecule,approved|investigational,IGF1R,inhibitor
+DB12267,Brigatinib,small molecule,approved|investigational,FLT3,inhibitor
+DB12267,Brigatinib,small molecule,approved|investigational,MET,inhibitor
+DB12267,Brigatinib,small molecule,approved|investigational,ERBB2,inhibitor
+DB12332,Rucaparib,small molecule,approved|investigational,PARP1,inhibitor
+DB12500,Fedratinib,small molecule,approved|investigational,JAK2,inhibitor
+DB12500,Fedratinib,small molecule,approved|investigational,FLT3,inhibitor
+DB12500,Fedratinib,small molecule,approved|investigational,JAK1,inhibitor
+DB12513,Omaveloxolone,small molecule,approved|investigational,KEAP1,inhibitor
+DB12597,Asciminib,small molecule,approved|investigational,ABL1,inhibitor
+DB12597,Asciminib,small molecule,approved|investigational,ABL1,allosteric modulator
+DB12874,Quizartinib,small molecule,approved|investigational,FLT3,inhibitor
+DB12965,Silver,small molecule,approved|investigational,CP,binder
+DB12965,Silver,small molecule,approved|investigational,ALB,binder
+DB12978,Pexidartinib,small molecule,approved|investigational,KIT,inhibitor
+DB12978,Pexidartinib,small molecule,approved|investigational,FLT3,inhibitor
+DB13146,Fluciclovine (18F),small molecule,approved,SLC1A5,binder
+DB13166,Zofenopril,small molecule,approved,ACE,inhibitor
+DB13615,Mifamurtide,small molecule,approved|experimental,TLR4,ligand
+DB13751,Glycyrrhizic acid,small molecule,approved|experimental,TNF,antagonist
+DB13751,Glycyrrhizic acid,small molecule,approved|experimental,CASP3,antagonist
+DB13931,Netarsudil,small molecule,approved,ROCK2,inhibitor
+DB13952,Estradiol acetate,small molecule,approved|investigational|vet_approved,BECN1,
+DB13953,Estradiol benzoate,small molecule,approved|investigational|vet_approved,BECN1,
+DB13954,Estradiol cypionate,small molecule,approved|investigational|vet_approved,BECN1,
+DB13955,Estradiol dienanthate,small molecule,approved|investigational|vet_approved,BECN1,
+DB13956,Estradiol valerate,small molecule,approved|investigational|vet_approved,BECN1,
+DB13967,Patent Blue,small molecule,approved,ALB,binder
+DB13996,Magnesium acetate,small molecule,approved,ATP1A1,
+DB14109,alpha-Arbutin,small molecule,approved|experimental,GAA,substrate
+DB14109,alpha-Arbutin,small molecule,approved|experimental,GAA,regulator
+DB14481,Calcium phosphate dihydrate,small molecule,approved,CALR,
+DB14481,Calcium phosphate dihydrate,small molecule,approved,SPARC,
+DB14481,Calcium phosphate dihydrate,small molecule,approved,CANX,
+DB14481,Calcium phosphate dihydrate,small molecule,approved,S100B,
+DB14481,Calcium phosphate dihydrate,small molecule,approved,GCA,
+DB14481,Calcium phosphate dihydrate,small molecule,approved,CALM3,
+DB14487,Zinc acetate,small molecule,approved|investigational,ALDOA,
+DB14487,Zinc acetate,small molecule,approved|investigational,EEF1A1,
+DB14487,Zinc acetate,small molecule,approved|investigational,PDIA3,
+DB14487,Zinc acetate,small molecule,approved|investigational,TPI1,
+DB14487,Zinc acetate,small molecule,approved|investigational,TUFM,
+DB14487,Zinc acetate,small molecule,approved|investigational,HDAC1,
+DB14487,Zinc acetate,small molecule,approved|investigational,SOD1,
+DB14487,Zinc acetate,small molecule,approved|investigational,S100A8,
+DB14487,Zinc acetate,small molecule,approved|investigational,TP53,
+DB14487,Zinc acetate,small molecule,approved|investigational,AGT,
+DB14487,Zinc acetate,small molecule,approved|investigational,APCS,
+DB14487,Zinc acetate,small molecule,approved|investigational,C1S,
+DB14487,Zinc acetate,small molecule,approved|investigational,C3,
+DB14487,Zinc acetate,small molecule,approved|investigational,C4B,
+DB14487,Zinc acetate,small molecule,approved|investigational,C5,
+DB14487,Zinc acetate,small molecule,approved|investigational,CLU,
+DB14487,Zinc acetate,small molecule,approved|investigational,CP,
+DB14487,Zinc acetate,small molecule,approved|investigational,DSP,
+DB14487,Zinc acetate,small molecule,approved|investigational,F2,
+DB14487,Zinc acetate,small molecule,approved|investigational,GSN,
+DB14487,Zinc acetate,small molecule,approved|investigational,KLKB1,
+DB14487,Zinc acetate,small molecule,approved|investigational,KNG1,
+DB14487,Zinc acetate,small molecule,approved|investigational,SERPINA3,
+DB14487,Zinc acetate,small molecule,approved|investigational,SERPIND1,
+DB14487,Zinc acetate,small molecule,approved|investigational,TF,
+DB14487,Zinc acetate,small molecule,approved|investigational,TTR,
+DB14487,Zinc acetate,small molecule,approved|investigational,APLP1,
+DB14487,Zinc acetate,small molecule,approved|investigational,PARP1,
+DB14488,Ferrous gluconate,small molecule,approved,CP,
+DB14488,Ferrous gluconate,small molecule,approved,TF,
+DB14489,Ferrous succinate,small molecule,approved,CP,
+DB14489,Ferrous succinate,small molecule,approved,TF,
+DB14490,Ferrous ascorbate,small molecule,approved,CP,
+DB14490,Ferrous ascorbate,small molecule,approved,TF,
+DB14491,Ferrous fumarate,small molecule,approved,CP,
+DB14491,Ferrous fumarate,small molecule,approved,TF,
+DB14498,Potassium acetate,small molecule,approved|investigational,ATP1A1,
+DB14499,Potassium sulfate,small molecule,approved|investigational,ATP1A1,
+DB14500,Potassium,small molecule,approved|experimental,ATP1A1,regulator
+DB14501,Ferrous glycine sulfate,small molecule,approved,CP,
+DB14501,Ferrous glycine sulfate,small molecule,approved,TF,
+DB14517,Aluminium phosphate,small molecule,approved|investigational,TF,
+DB14517,Aluminium phosphate,small molecule,approved|investigational,ATP1A1,
+DB14518,Aluminum acetate,small molecule,approved|investigational,TF,
+DB14518,Aluminum acetate,small molecule,approved|investigational,ATP1A1,
+DB14533,Zinc chloride,small molecule,approved|investigational,ALDOA,ligand
+DB14533,Zinc chloride,small molecule,approved|investigational,EEF1A1,binder
+DB14533,Zinc chloride,small molecule,approved|investigational,PDIA3,binder
+DB14533,Zinc chloride,small molecule,approved|investigational,TPI1,binder
+DB14533,Zinc chloride,small molecule,approved|investigational,TUFM,cofactor
+DB14533,Zinc chloride,small molecule,approved|investigational,HDAC1,cofactor
+DB14533,Zinc chloride,small molecule,approved|investigational,SOD1,cofactor
+DB14533,Zinc chloride,small molecule,approved|investigational,S100A8,regulator
+DB14533,Zinc chloride,small molecule,approved|investigational,TP53,chaperone
+DB14533,Zinc chloride,small molecule,approved|investigational,C1S,modulator
+DB14533,Zinc chloride,small molecule,approved|investigational,C3,inhibitor
+DB14533,Zinc chloride,small molecule,approved|investigational,C3,ligand
+DB14533,Zinc chloride,small molecule,approved|investigational,C4B,modulator
+DB14533,Zinc chloride,small molecule,approved|investigational,C5,ligand
+DB14533,Zinc chloride,small molecule,approved|investigational,CLU,inducer
+DB14533,Zinc chloride,small molecule,approved|investigational,CP,ligand
+DB14533,Zinc chloride,small molecule,approved|investigational,HP,binder
+DB14533,Zinc chloride,small molecule,approved|investigational,KLKB1,inhibitor
+DB14533,Zinc chloride,small molecule,approved|investigational,KNG1,cofactor
+DB14533,Zinc chloride,small molecule,approved|investigational,SERPINA3,binder
+DB14533,Zinc chloride,small molecule,approved|investigational,SERPIND1,agonist
+DB14533,Zinc chloride,small molecule,approved|investigational,TF,ligand
+DB14533,Zinc chloride,small molecule,approved|investigational,TTR,inducer
+DB14533,Zinc chloride,small molecule,approved|investigational,APLP1,ligand
+DB14533,Zinc chloride,small molecule,approved|investigational,PARP1,component of
+DB14533,Zinc chloride,small molecule,approved|investigational,HRG,cofactor
+DB14533,Zinc chloride,small molecule,approved|investigational,F11,activator
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,ALDOA,ligand
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,EEF1A1,binder
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,PDIA3,binder
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,TPI1,binder
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,TUFM,cofactor
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,HDAC1,cofactor
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,SOD1,cofactor
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,S100A8,regulator
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,TP53,chaperone
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,C1S,modulator
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,C3,inhibitor
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,C3,ligand
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,C4B,modulator
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,C5,ligand
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,CLU,inducer
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,CP,ligand
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,HP,binder
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,KLKB1,inhibitor
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,KNG1,cofactor
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,SERPINA3,binder
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,SERPIND1,agonist
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,TF,ligand
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,TTR,inducer
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,APLP1,ligand
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,PARP1,component of
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,HRG,cofactor
+DB14548,"Zinc sulfate, unspecified form",small molecule,approved|experimental,F11,activator
+DB14723,Larotrectinib,small molecule,approved|investigational,NTRK1,inhibitor
+DB14840,Ripretinib,small molecule,approved,KIT,inhibitor
+DB14845,Filgotinib,small molecule,approved|investigational,JAK1,inhibitor
+DB14924,Ritlecitinib,small molecule,approved|investigational,BTK,inhibitor
+DB14973,Abrocitinib,small molecule,approved|investigational,JAK1,inhibitor
+DB14973,Abrocitinib,small molecule,approved|investigational,JAK2,inhibitor
+DB14973,Abrocitinib,small molecule,approved|investigational,TYK2,inhibitor
+DB14989,Umbralisib,small molecule,approved|investigational|withdrawn,ABL1,inhibitor
+DB15035,Zanubrutinib,small molecule,approved|investigational,BTK,inhibitor
+DB15035,Zanubrutinib,small molecule,approved|investigational,EGFR,inhibitor
+DB15035,Zanubrutinib,small molecule,approved|investigational,ERBB2,inhibitor
+DB15035,Zanubrutinib,small molecule,approved|investigational,JAK2,inhibitor
+DB15035,Zanubrutinib,small molecule,approved|investigational,LCK,inhibitor
+DB15091,Upadacitinib,small molecule,approved|investigational,JAK1,inhibitor
+DB15133,Tepotinib,small molecule,approved|investigational,MET,inhibitor
+DB15233,Avapritinib,small molecule,approved|investigational,KIT,inhibitor
+DB15442,Trilaciclib,small molecule,approved|investigational,CDK4,inhibitor
+DB15442,Trilaciclib,small molecule,approved|investigational,CDK6,inhibitor
+DB15442,Trilaciclib,small molecule,approved|investigational,CDK2,inhibitor
+DB15534,Colchiceine,small molecule,approved|experimental,TUBB,binder
+DB15534,Colchiceine,small molecule,approved|experimental,TUBA1A,binder
+DB15636,Zilucoplan,small molecule,approved,C5,inhibitor
+DB15685,Selpercatinib,small molecule,approved|investigational,FLT1,inhibitor
+DB15685,Selpercatinib,small molecule,approved|investigational,FLT4,inhibitor
+DB15822,Pralsetinib,small molecule,approved|investigational,FLT3,inhibitor
+DB15822,Pralsetinib,small molecule,approved|investigational,JAK1,inhibitor
+DB15822,Pralsetinib,small molecule,approved|investigational,JAK2,inhibitor
+DB15822,Pralsetinib,small molecule,approved|investigational,NTRK1,inhibitor
+DB15982,Berotralstat,small molecule,approved,KLKB1,inhibitor
+DB16390,Mobocertinib,small molecule,approved|investigational,EGFR,inhibitor
+DB16650,Deucravacitinib,small molecule,approved|investigational,TYK2,inhibitor
+DB16703,Belumosudil,small molecule,approved|investigational,ROCK2,inhibitor
+DB16826,Repotrectinib,small molecule,approved|investigational,NTRK1,inhibitor
+DB17472,Pirtobrutinib,small molecule,approved|investigational,BTK,inhibitor

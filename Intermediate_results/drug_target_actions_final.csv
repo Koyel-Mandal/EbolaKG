@@ -1,0 +1,558 @@
+DrugName,Relation,GeneSymbol
+Bivalirudin,inhibitor,F2
+Pyridoxal phosphate,cofactor,ODC1
+Pyridoxal phosphate,cofactor,TAT
+Pyridoxal phosphate,cofactor,SDS
+Pyridoxal phosphate,cofactor,SPTLC1
+Phenylalanine,binder,TH
+Biotin,cofactor,PC
+Ascorbic acid,cofactor,PAM
+Aspartic acid,substrate,PAICS
+Adenosine phosphate,activator,CREB1
+Tyrosine,binder,TH
+Creatine,ligand,CKB
+Vitamin A,ligand,APOD
+Vitamin A,ligand,PTGDS
+Menadione,activator,F2
+Menadione,activator,F9
+Ramipril,inhibitor,ACE
+Baclofen,allosteric modulator,CXCR4
+Caffeine,inhibitor,PRKDC
+Caffeine,inhibitor,ATM
+Sildenafil,downregulator,ODC1
+Adapalene,antagonist,JUN
+Adapalene,antagonist,TLR2
+Moxifloxacin,inhibitor,TOP2A
+Amsacrine,inhibitor,TOP2A
+Argatroban,inhibitor,F2
+Liothyronine,antagonist,PCNA
+Lidocaine,antagonist,EGFR
+Pamidronic acid,activator,CASP3
+Acarbose,inhibitor,SI
+Acarbose,inhibitor,GAA
+Raltitrexed,inhibitor,TYMS
+Valproic acid,inhibitor,HDAC1
+Valproic acid,regulator,CDKN1A
+Valproic acid,inhibitor,HGF
+Valproic acid,downregulator,ODC1
+Gefitinib,antagonist,EGFR
+Amitriptyline,agonist,NTRK1
+Amitriptyline,activator,NTRK1
+Indomethacin,inducer,EIF2AK2
+Pimecrolimus,potentiator,MTOR
+Pyrazinamide,inhibitor,FAS
+Sapropterin,cofactor,TH
+Vinorelbine,antagonist,TUBB
+Vinorelbine,inhibitor,TUBB
+Sucralfate,agonist,FGF2
+Sucralfate,inducer,FGF2
+Sucralfate,inducer,EGF
+Dexrazoxane,inhibitor,TOP2A
+Valrubicin,inhibitor,TOP2A
+Digoxin,inhibitor,ATP1A1
+Sorafenib,inhibitor,FLT4
+Sorafenib,inhibitor,FLT1
+Sorafenib,inhibitor,FLT3
+Sorafenib,antagonist,KIT
+Ardeparin,potentiator,SERPINC1
+Ardeparin,agonist,SERPIND1
+Miglustat,inhibitor,UGCG
+Trifluridine,inhibitor,TYMS
+Gemcitabine,inhibitor,TYMS
+Teniposide,inhibitor,TOP2A
+Epirubicin,inhibitor,TOP2A
+Framycetin,antagonist,CXCR4
+Enoxacin,inhibitor,TOP2A
+Celecoxib,inhibitor,PDPK1
+Pefloxacin,inhibitor,TOP2A
+Miglitol,antagonist,GAA
+Miglitol,antagonist,GANAB
+Fosinopril,inhibitor,ACE
+Acetyldigitoxin,inhibitor,ATP1A1
+Dextromethorphan,binder,PGRMC1
+Albendazole,inhibitor,TUBA1A
+Trandolapril,inhibitor,ACE
+Erlotinib,antagonist,EGFR
+Ciprofloxacin,inhibitor,TOP2A
+Nortriptyline,binder,PGRMC1
+Vincristine,inhibitor,TUBB
+Benazepril,inhibitor,ACE
+Fluorouracil,other/unknown,TYMS
+Azelaic acid,inhibitor,TYR
+Pentostatin,inhibitor,ADA
+Methotrexate,inhibitor,TYMS
+Fondaparinux,potentiator,SERPINC1
+Vinblastine,binder,TUBA1A
+Vinblastine,binder,TUBB
+Vinblastine,other/unknown,JUN
+Enalapril,inhibitor,ACE
+Fluocinolone acetonide,inducer,ANXA5
+Monobenzone,inhibitor,TYR
+Medroxyprogesterone acetate,inhibitor,ABCB1
+Chloroquine,inhibitor,TNF
+Chloroquine,inhibitor,TLR9
+Chloroquine,inhibitor,HMGB1
+Chloroquine,modulator,ACE2
+Rifabutin,other/unknown,HSP90B1
+Imatinib,inhibitor,BCR
+Imatinib,antagonist,KIT
+Imatinib,antagonist,NTRK1
+Imatinib,inhibitor,ABL1
+Pemetrexed,inhibitor,TYMS
+Pemetrexed,inhibitor,GART
+Mebendazole,inhibitor,TUBA1A
+Verapamil,inhibitor,ABCB1
+Verapamil,blocker,ABCB1
+Epinephrine,antagonist,TNF
+Epinephrine,agonist,TNF
+Trovafloxacin,inhibitor,TOP2A
+Pentosan polysulfate,antagonist,FGF2
+Moexipril,inhibitor,ACE
+Daunorubicin,inhibitor,TOP2A
+Clodronic acid,inhibitor,SLC25A5
+Lisinopril,inhibitor,ACE
+Imiquimod,agonist,TLR7
+Imiquimod,agonist,TLR8
+Scopolamine,inhibitor,SI
+Irinotecan,inhibitor,TOP1
+Metyrosine,binder,TH
+Olopatadine,other/unknown,S100B
+Etoposide,inhibitor,TOP2A
+Hydroflumethiazide,inducer,ATP1A1
+Estradiol,binder,BECN1
+Perindopril,inhibitor,ACE
+Pseudoephedrine,inhibitor,TNF
+Pseudoephedrine,inhibitor,IL2
+Sirolimus,inhibitor,MTOR
+Quinapril,inhibitor,ACE
+Etacrynic acid,inhibitor,ATP1A1
+Cyclobenzaprine,inhibitor,TLR4
+Acetylsalicylic acid,inducer,TP53
+Acetylsalicylic acid,inhibitor,HSPA5
+Acetylsalicylic acid,binder,HSPA5
+Acetylsalicylic acid,inhibitor,CASP3
+Acetylsalicylic acid,downregulator,CASP3
+Acetylsalicylic acid,downregulator,MYC
+Acetylsalicylic acid,downregulator,PCNA
+Dactinomycin,inhibitor,TOP2A
+Dactinomycin,inhibitor,TOP1
+Ezetimibe,inhibitor,NPC1L1
+Dipyridamole,inhibitor,ADA
+Lomefloxacin,inhibitor,TOP2A
+Azathioprine,modulator,RAC1
+Doxorubicin,inhibitor,TOP2A
+Doxorubicin,inhibitor,TOP1
+Cromoglicic acid,antagonist,S100P
+Minocycline,negative modulator,CASP3
+Trichlormethiazide,inhibitor,ATP1A1
+Irbesartan,other/unknown,JUN
+Topotecan,inhibitor,TOP1
+Mercaptopurine,inhibitor,HPRT1
+Norfloxacin,inhibitor,TOP2A
+Norfloxacin,inhibitor,TOP2A
+Isoprenaline,stabilization,SOD1
+Atorvastatin,inhibitor,DPP4
+Etidronic acid,inhibitor,SLC25A5
+Deslanoside,inhibitor,ATP1A1
+Ouabain,inhibitor,ATP1A1
+Dimethyl sulfoxide,downregulator,MYC
+Leflunomide,inhibitor,DHODH
+Capecitabine,inhibitor,TYMS
+Sertraline,inhibitor,PGRMC1
+Sertraline,binder,PGRMC1
+Heparin,potentiator,SERPINC1
+Atovaquone,inhibitor,DHODH
+Proflavine,other/unknown,F2
+Carvedilol,modulator,HIF1A
+Bretylium,inhibitor,ATP1A1
+Ofloxacin,inhibitor,TOP2A
+Arsenic trioxide,inducer,JUN
+Arsenic trioxide,inducer,AKT1
+Idarubicin,inhibitor,TOP2A
+Chlormezanone,agonist,TSPO
+Podofilox,inhibitor,TUBB
+Podofilox,inhibitor,TOP2A
+Rescinnamine,inhibitor,ACE
+Naloxone,other/unknown,CREB1
+Naloxone,inhibitor,TLR4
+Ciclopirox,binder,ATP1A1
+Estramustine,antagonist,MAP2
+Captopril,inhibitor,ACE
+Zopiclone,agonist,TSPO
+Mitoxantrone,inhibitor,TOP2A
+Sparfloxacin,inhibitor,TOP2A
+Fomepizole,inhibitor,CAT
+Enoxaparin,potentiator,SERPINC1
+Enoxaparin,inhibitor,F2
+Bepridil,inhibitor,ATP1A1
+Dasatinib,inhibitor,ABL1
+Dasatinib,multitarget,ABL1
+Dasatinib,inhibitor,SRC
+Dasatinib,multitarget,SRC
+Dasatinib,inhibitor,LCK
+Dasatinib,multitarget,LCK
+Dasatinib,antagonist,KIT
+Dasatinib,inhibitor,BTK
+Dasatinib,inhibitor,BCR
+Dasatinib,binder,HSPA8
+Lapatinib,antagonist,EGFR
+Lapatinib,antagonist,ERBB2
+Sitagliptin,inhibitor,DPP4
+Decitabine,inhibitor,HDAC1
+Sunitinib,inhibitor,FLT1
+Sunitinib,inhibitor,KIT
+Sunitinib,inhibitor,FLT4
+Sunitinib,inhibitor,FLT3
+Sunitinib,inhibitor,MET
+Hydralazine,inducer,HIF1A
+Glucosamine,inhibitor,IFNG
+Cefazolin,inhibitor,IL2
+Cilazapril,inhibitor,ACE
+Spirapril,inhibitor,ACE
+Aluminium,binder,ATP1A1
+Colchicine,inhibitor,TUBB
+Colchicine,binder,TUBB
+Digitoxin,inhibitor,ATP1A1
+Danazol,inhibitor,CCL2
+Clenbuterol,other/unknown,TNF
+Amrinone,inhibitor,TNF
+Almitrine,binder,ATP1A1
+Everolimus,inhibitor,MTOR
+Zinc,cofactor,HDAC1
+Zinc,cofactor,APLP1
+Hydroxychloroquine,antagonist,TLR7
+Hydroxychloroquine,antagonist,TLR9
+Hydroxychloroquine,modulator,ACE2
+Vorinostat,inhibitor,HDAC1
+Vorinostat,inhibitor,HDAC1
+Nicotinamide,binder,PARP1
+Fusidic acid,inhibitor,CAT
+Doconexent,inhibitor,MYC
+Maraviroc,antagonist,CCR5
+Maraviroc,inhibitor,CCR5
+Nilotinib,inhibitor,ABL1
+Nilotinib,antagonist,KIT
+Vildagliptin,inhibitor,DPP4
+Ximelagatran,inhibitor,F2
+Belinostat,inhibitor,HDAC1
+Pretomanid,other/unknown,FAS
+Vandetanib,inhibitor,EGFR
+Sodium stibogluconate,inhibitor,TOP1
+Tirbanibulin,inhibitor,TUBB
+Tirbanibulin,inhibitor,SRC
+Romidepsin,antagonist,HDAC1
+Romidepsin,inhibitor,HDAC1
+Romidepsin,inhibitor,HDAC1
+Alogliptin,inhibitor,DPP4
+Eflornithine,inhibitor,ODC1
+Temsirolimus,inhibitor,MTOR
+Saxagliptin,inhibitor,DPP4
+Pazopanib,inhibitor,FLT1
+Pazopanib,inhibitor,KIT
+Midostaurin,antagonist,FLT3
+Midostaurin,inhibitor,FLT3
+Midostaurin,antagonist,KIT
+Midostaurin,inhibitor,KIT
+Panobinostat,inhibitor,HDAC1
+Bosutinib,inhibitor,ABL1
+Bosutinib,inhibitor,SRC
+Axitinib,inhibitor,FLT1
+Axitinib,inhibitor,FLT4
+Dabigatran etexilate,inhibitor,F2
+Danaparoid,positive allosteric modulator,SERPINC1
+Dalteparin,potentiator,SERPINC1
+Plerixafor,antagonist,CXCR4
+Plerixafor,inhibitor,CXCR4
+Pralatrexate,substrate,TYMS
+Pralatrexate,inhibitor,TYMS
+Phenylbutyric acid,inhibitor,HDAC1
+Tinzaparin,potentiator,SERPINC1
+Nandrolone decanoate,inducer,IGF1R
+Nadroparin,potentiator,SERPINC1
+Nadroparin,inhibitor,MYC
+Hyaluronic acid,binder,CD44
+Crizotinib,inhibitor,MET
+Fingolimod,inhibitor,HDAC1
+Cabozantinib,antagonist,MET
+Ruxolitinib,inhibitor,JAK2
+Ruxolitinib,inhibitor,JAK1
+Ruxolitinib,inhibitor,TYK2
+Teriflunomide,inhibitor,DHODH
+Linagliptin,inhibitor,DPP4
+Tofacitinib,inhibitor,JAK1
+Tofacitinib,antagonist,JAK2
+Tofacitinib,inhibitor,JAK2
+Regorafenib,inhibitor,FLT1
+Regorafenib,inhibitor,FLT4
+Regorafenib,inhibitor,KIT
+Regorafenib,inhibitor,NTRK1
+Regorafenib,inhibitor,MAPK11
+Regorafenib,inhibitor,ABL1
+Ponatinib,inhibitor,ABL1
+Ponatinib,inhibitor,BCR
+Ponatinib,inhibitor,KIT
+Ponatinib,inhibitor,FLT3
+Ponatinib,inhibitor,LCK
+Ponatinib,inhibitor,SRC
+Dimethyl fumarate,binder,KEAP1
+Pomalidomide,inhibitor,TNF
+Dabrafenib,inhibitor,LIMK1
+Afatinib,inhibitor,EGFR
+Afatinib,inhibitor,ERBB2
+Bromhexine,binder,ACE2
+Bisacodyl,inhibitor,ATP1A1
+Eliglustat,inhibitor,UGCG
+Finafloxacin,inhibitor,TOP2A
+Ibrutinib,inhibitor,BTK
+Cannabidiol,inhibitor,CAT
+Cannabidiol,inhibitor,SOD1
+Palbociclib,inhibitor,CDK4
+Palbociclib,inhibitor,CDK6
+Olaparib,inhibitor,PARP1
+Lenvatinib,inhibitor,FLT1
+Lenvatinib,inhibitor,FLT4
+Lenvatinib,inhibitor,KIT
+Nintedanib,inhibitor,FLT1
+Nintedanib,inhibitor,FLT4
+Nintedanib,inhibitor,FLT3
+Nintedanib,inhibitor,LCK
+Nintedanib,inhibitor,SRC
+Xanthinol,cofactor,GAPDH
+Benzoyl peroxide,inhibitor,CAT
+Benzoyl peroxide,inhibitor,SOD3
+Copper,cofactor,APLP1
+Tegafur,inhibitor,TYMS
+Bemiparin,antagonist,SERPINC1
+Bemiparin,antagonist,SERPIND1
+Tegafur-uracil,antagonist,TYMS
+Osimertinib,inhibitor,EGFR
+Osimertinib,regulator,EGFR
+Kappadione,agonist,F2
+Kappadione,agonist,F9
+Enalaprilat,inhibitor,ACE
+Hydroquinone,inhibitor,TYR
+Calcium citrate,ligand,CALR
+Calcium citrate,ligand,SPARC
+Calcium citrate,ligand,CANX
+Calcium citrate,ligand,S100B
+Calcium citrate,ligand,GCA
+Calcium citrate,agonist,CALM3
+Arbutin,inhibitor,TYR
+Hexylresorcinol,inhibitor,TOP1
+Hexylresorcinol,inhibitor,TYR
+Calcium Phosphate,ligand,CALR
+Calcium Phosphate,ligand,SPARC
+Calcium Phosphate,ligand,CANX
+Calcium Phosphate,ligand,S100B
+Calcium Phosphate,ligand,GCA
+Calcium Phosphate,agonist,CALM3
+Tocofersolan,antagonist,ABCB1
+Artenimol,ligand,ACTG1
+Artenimol,ligand,DSP
+Artenimol,ligand,EEF1A1
+Artenimol,ligand,HNRNPA2B1
+Artenimol,ligand,HNRNPK
+Artenimol,ligand,IQGAP1
+Artenimol,ligand,LGALS1
+Artenimol,ligand,RPS17
+Artenimol,ligand,TPI1
+Artenimol,ligand,TUBA1A
+Artenimol,ligand,HSPA8
+Artenimol,ligand,TUBB
+Artenimol,ligand,ALDOA
+Artenimol,ligand,GAPDH
+Artenimol,ligand,DDX39B
+Artenimol,ligand,GAPDH
+Artenimol,ligand,ALB
+Vinflunine,inhibitor,TUBB
+Tafamidis,chaperone,TTR
+Tucatinib,inhibitor,ERBB2
+Fruquintinib,inhibitor,FLT1
+Fruquintinib,inhibitor,FLT4
+Pacritinib,inhibitor,JAK2
+Pacritinib,inhibitor,FLT3
+Acalabrutinib,inhibitor,BTK
+Encorafenib,inhibitor,LIMK1
+Ribociclib,antagonist,CDK4
+Ribociclib,inhibitor,CDK4
+Ribociclib,antagonist,CDK6
+Ribociclib,inhibitor,CDK6
+Talazoparib,inhibitor,PARP1
+Momelotinib,inhibitor,JAK1
+Momelotinib,inhibitor,JAK2
+Momelotinib,inhibitor,TYK2
+Momelotinib,inhibitor,FLT3
+Capmatinib,inhibitor,MET
+Niraparib,inhibitor,PARP1
+Tivozanib,inhibitor,FLT1
+Tivozanib,inhibitor,FLT4
+Tivozanib,inhibitor,KIT
+Tivozanib,inhibitor,FLT3
+Tivozanib,inhibitor,MET
+Baricitinib,inhibitor,JAK1
+Baricitinib,inhibitor,JAK2
+Baricitinib,inhibitor,TYK2
+Neratinib,inhibitor,EGFR
+Dacomitinib,inhibitor,EGFR
+Entrectinib,inhibitor,NTRK1
+Entrectinib,inhibitor,JAK2
+Abemaciclib,inhibitor,CDK4
+Abemaciclib,inhibitor,CDK6
+Fostamatinib,inhibitor,SYK
+Fostamatinib,inhibitor,CTSL
+Fostamatinib,inhibitor,ABL1
+Fostamatinib,inhibitor,TYK2
+Fostamatinib,inhibitor,JAK1
+Fostamatinib,inhibitor,MET
+Fostamatinib,inhibitor,PRKACA
+Fostamatinib,inhibitor,TBK1
+Fostamatinib,inhibitor,TTK
+Fostamatinib,inhibitor,TYRO3
+Fostamatinib,inhibitor,ZAP70
+Fostamatinib,inhibitor,AXL
+Fostamatinib,inhibitor,BTK
+Fostamatinib,inhibitor,CDK4
+Fostamatinib,inhibitor,EGFR
+Fostamatinib,inhibitor,EIF2AK2
+Fostamatinib,inhibitor,ERBB2
+Fostamatinib,inhibitor,FER
+Fostamatinib,inhibitor,FLT1
+Fostamatinib,inhibitor,FLT3
+Fostamatinib,inhibitor,FLT4
+Fostamatinib,inhibitor,MTOR
+Fostamatinib,inhibitor,IRAK4
+Fostamatinib,inhibitor,JAK2
+Fostamatinib,inhibitor,KIT
+Fostamatinib,inhibitor,LATS1
+Fostamatinib,inhibitor,LCK
+Fostamatinib,inhibitor,LIMK1
+Fostamatinib,inhibitor,LRRK2
+Fostamatinib,inhibitor,MERTK
+Fostamatinib,inhibitor,NTRK1
+Fostamatinib,inhibitor,PDPK1
+Fostamatinib,inhibitor,PIM1
+Fostamatinib,inhibitor,RIOK2
+Fostamatinib,inhibitor,ROCK2
+Fostamatinib,inhibitor,SRC
+Gilteritinib,inhibitor,FLT3
+Gilteritinib,inhibitor,AXL
+Erdafitinib,substrate,KIT
+Capivasertib,inhibitor,AKT1
+Capivasertib,inhibitor,AKT3
+Vadadustat,stabilization,HIF1A
+Brigatinib,inhibitor,EGFR
+Brigatinib,inhibitor,ABL1
+Brigatinib,inhibitor,IGF1R
+Brigatinib,inhibitor,FLT3
+Brigatinib,inhibitor,MET
+Brigatinib,inhibitor,ERBB2
+Rucaparib,inhibitor,PARP1
+Fedratinib,inhibitor,JAK2
+Fedratinib,inhibitor,FLT3
+Fedratinib,inhibitor,JAK1
+Omaveloxolone,inhibitor,KEAP1
+Asciminib,inhibitor,ABL1
+Asciminib,allosteric modulator,ABL1
+Quizartinib,inhibitor,FLT3
+Silver,binder,CP
+Silver,binder,ALB
+Pexidartinib,inhibitor,KIT
+Pexidartinib,inhibitor,FLT3
+Fluciclovine (18F),binder,SLC1A5
+Zofenopril,inhibitor,ACE
+Mifamurtide,ligand,TLR4
+Glycyrrhizic acid,antagonist,TNF
+Glycyrrhizic acid,antagonist,CASP3
+Netarsudil,inhibitor,ROCK2
+Patent Blue,binder,ALB
+alpha-Arbutin,substrate,GAA
+alpha-Arbutin,regulator,GAA
+Potassium,regulator,ATP1A1
+Zinc chloride,ligand,ALDOA
+Zinc chloride,binder,EEF1A1
+Zinc chloride,binder,PDIA3
+Zinc chloride,binder,TPI1
+Zinc chloride,cofactor,TUFM
+Zinc chloride,cofactor,HDAC1
+Zinc chloride,cofactor,SOD1
+Zinc chloride,regulator,S100A8
+Zinc chloride,chaperone,TP53
+Zinc chloride,modulator,C1S
+Zinc chloride,inhibitor,C3
+Zinc chloride,ligand,C3
+Zinc chloride,modulator,C4B
+Zinc chloride,ligand,C5
+Zinc chloride,inducer,CLU
+Zinc chloride,ligand,CP
+Zinc chloride,binder,HP
+Zinc chloride,inhibitor,KLKB1
+Zinc chloride,cofactor,KNG1
+Zinc chloride,binder,SERPINA3
+Zinc chloride,agonist,SERPIND1
+Zinc chloride,ligand,TF
+Zinc chloride,inducer,TTR
+Zinc chloride,ligand,APLP1
+Zinc chloride,component of,PARP1
+Zinc chloride,cofactor,HRG
+Zinc chloride,activator,F11
+"Zinc sulfate, unspecified form",ligand,ALDOA
+"Zinc sulfate, unspecified form",binder,EEF1A1
+"Zinc sulfate, unspecified form",binder,PDIA3
+"Zinc sulfate, unspecified form",binder,TPI1
+"Zinc sulfate, unspecified form",cofactor,TUFM
+"Zinc sulfate, unspecified form",cofactor,HDAC1
+"Zinc sulfate, unspecified form",cofactor,SOD1
+"Zinc sulfate, unspecified form",regulator,S100A8
+"Zinc sulfate, unspecified form",chaperone,TP53
+"Zinc sulfate, unspecified form",modulator,C1S
+"Zinc sulfate, unspecified form",inhibitor,C3
+"Zinc sulfate, unspecified form",ligand,C3
+"Zinc sulfate, unspecified form",modulator,C4B
+"Zinc sulfate, unspecified form",ligand,C5
+"Zinc sulfate, unspecified form",inducer,CLU
+"Zinc sulfate, unspecified form",ligand,CP
+"Zinc sulfate, unspecified form",binder,HP
+"Zinc sulfate, unspecified form",inhibitor,KLKB1
+"Zinc sulfate, unspecified form",cofactor,KNG1
+"Zinc sulfate, unspecified form",binder,SERPINA3
+"Zinc sulfate, unspecified form",agonist,SERPIND1
+"Zinc sulfate, unspecified form",ligand,TF
+"Zinc sulfate, unspecified form",inducer,TTR
+"Zinc sulfate, unspecified form",ligand,APLP1
+"Zinc sulfate, unspecified form",component of,PARP1
+"Zinc sulfate, unspecified form",cofactor,HRG
+"Zinc sulfate, unspecified form",activator,F11
+Larotrectinib,inhibitor,NTRK1
+Ripretinib,inhibitor,KIT
+Filgotinib,inhibitor,JAK1
+Ritlecitinib,inhibitor,BTK
+Abrocitinib,inhibitor,JAK1
+Abrocitinib,inhibitor,JAK2
+Abrocitinib,inhibitor,TYK2
+Umbralisib,inhibitor,ABL1
+Zanubrutinib,inhibitor,BTK
+Zanubrutinib,inhibitor,EGFR
+Zanubrutinib,inhibitor,ERBB2
+Zanubrutinib,inhibitor,JAK2
+Zanubrutinib,inhibitor,LCK
+Upadacitinib,inhibitor,JAK1
+Tepotinib,inhibitor,MET
+Avapritinib,inhibitor,KIT
+Trilaciclib,inhibitor,CDK4
+Trilaciclib,inhibitor,CDK6
+Trilaciclib,inhibitor,CDK2
+Colchiceine,binder,TUBB
+Colchiceine,binder,TUBA1A
+Zilucoplan,inhibitor,C5
+Selpercatinib,inhibitor,FLT1
+Selpercatinib,inhibitor,FLT4
+Pralsetinib,inhibitor,FLT3
+Pralsetinib,inhibitor,JAK1
+Pralsetinib,inhibitor,JAK2
+Pralsetinib,inhibitor,NTRK1
+Berotralstat,inhibitor,KLKB1
+Mobocertinib,inhibitor,EGFR
+Deucravacitinib,inhibitor,TYK2
+Belumosudil,inhibitor,ROCK2
+Repotrectinib,inhibitor,NTRK1
+Pirtobrutinib,inhibitor,BTK
