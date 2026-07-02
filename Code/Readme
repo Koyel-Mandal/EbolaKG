@@ -1,1 +1,2 @@
-
+Input Files required to run New_Knowledge_graph_bio.ipynb are ppi.csv, drug_pathway_simple.csv, drug_target_actions_final.csv, protein_pathway_edges_filtered.csv, and protein_pathway_reactome.csv
+These files are in dataset folder.
